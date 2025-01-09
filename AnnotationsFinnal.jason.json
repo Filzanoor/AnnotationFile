@@ -1,0 +1,3594 @@
+[
+    {
+        "gloss": "Hi",
+        "instances": [
+          {
+            "bbox": [325, 124, 901, 720],
+            "fps": 25,
+            "frame_end": 44,
+            "frame_start": 2,
+            "instance_id": 0,
+            "signer_id": 1,
+            "video_id": ["000001", "IMG_1148.mp4"]
+          },
+          {
+            "bbox": [351, 161, 947, 709],
+            "fps": 25,
+            "frame_end": 43,
+            "frame_start": 0,
+            "instance_id": 1,
+            "signer_id": 2,
+            "video_id": ["000002", "IMG_1149.mp4"]
+          },
+          {
+            "bbox": [399, 185, 975, 718],
+            "fps": 25,
+            "frame_end": 42,
+            "frame_start": 1,
+            "instance_id": 2,
+            "signer_id": 3,
+            "video_id": ["000003", "IMG_1153.mp4"]
+          },
+          {
+            "bbox": [348, 88, 894, 715],
+            "fps": 25,
+            "frame_end": 42,
+            "frame_start": 4,
+            "instance_id": 3,
+            "signer_id": 4,
+            "video_id": ["000004", "IMG_1154.mp4"]
+          },
+          {
+            "bbox": [274, 65, 991, 709],
+            "fps": 25,
+            "frame_end": 54,
+            "frame_start": 6,
+            "instance_id": 4,
+            "signer_id": 5,
+            "video_id": ["000007", "IMG_1161.mp4"]
+          },
+          {
+            "bbox": [369, 120, 914, 716],
+            "fps": 25,
+            "frame_end": 47,
+            "frame_start": 2,
+            "instance_id": 5,
+            "signer_id": 6,
+            "video_id": ["000010", "IMG_1167.mp4"]
+          },
+          {
+            "bbox": [310, 74, 879, 716],
+            "fps": 25,
+            "frame_end": 56,
+            "frame_start": 4,
+            "instance_id": 6,
+            "signer_id": 7,
+            "video_id": ["000011", "IMG_1168.mp4"]
+          },
+          {
+            "bbox": [310, 144, 882, 710],
+            "fps": 25,
+            "frame_end": 58,
+            "frame_start": 5,
+            "instance_id": 7,
+            "signer_id": 8,
+            "video_id": ["000051", "IMG_1214.mp4"]
+          },
+          {
+            "bbox": [353, 60, 908, 719],
+            "fps": 25,
+            "frame_end": 48,
+            "frame_start": 3,
+            "instance_id": 8,
+            "signer_id": 16,
+            "video_id": ["000218", "IMG_1513.mp4"]
+          },
+          {
+            "bbox": [390, 128, 935, 704],
+            "fps": 25,
+            "frame_end": 48,
+            "frame_start": 5,
+            "instance_id": 9,
+            "signer_id": 9,
+            "video_id": ["000052", "IMG_1216.mp4"]
+          },
+          {
+            "bbox": [342, 177, 907, 688],
+            "fps": 25,
+            "frame_end": 43,
+            "frame_start": 8,
+            "instance_id": 10,
+            "signer_id": 10,
+            "video_id": ["000053", "IMG_1217.mp4"]
+          },
+          {
+            "bbox": [397, 136, 870, 697],
+            "fps": 25,
+            "frame_end": 52,
+            "frame_start": 7,
+            "instance_id": 11,
+            "signer_id": 11,
+            "video_id": ["000054", "IMG_1218.mp4"]
+          },
+          {
+            "bbox": [404, 127, 886, 709],
+            "fps": 25,
+            "frame_end": 45,
+            "frame_start": 12,
+            "instance_id": 12,
+            "signer_id": 12,
+            "video_id": ["000058", "IMG_1227.mp4"]
+          },
+          {
+            "bbox": [437, 128, 947, 696],
+            "fps": 25,
+            "frame_end": 44,
+            "frame_start": 5,
+            "instance_id": 13,
+            "signer_id": 13,
+            "video_id": ["000059", "IMG_1228.mp4"]
+          },
+          {
+            "bbox": [220, 77, 869, 715],
+            "fps": 25,
+            "frame_end": 48,
+            "frame_start": 2,
+            "instance_id": 14,
+            "signer_id": 14,
+            "video_id": ["000075", "IMG_1259.mp4"]
+          },
+          {
+            "bbox": [111, 39, 848, 710],
+            "fps": 25,
+            "frame_end": 57,
+            "frame_start": 0,
+            "instance_id": 15,
+            "signer_id": 15,
+            "video_id": ["000077", "IMG_1261.mp4"]
+          },
+          {
+            "bbox": [286, 48, 917, 719],
+            "fps": 25,
+            "frame_end": 57,
+            "frame_start": 20,
+            "instance_id": 16,
+            "signer_id": 17,
+            "video_id": ["000258", "IMG_1578.mp4"]
+          },
+          {
+            "bbox": [142, 40, 939, 718],
+            "fps": 25,
+            "frame_end": 58,
+            "frame_start": 23,
+            "instance_id": 17,
+            "signer_id": 18,
+            "video_id": ["000259", "IMG_1579.mp4"]
+          },
+          {
+            "bbox": [425, 40, 1003, 718],
+            "fps": 25,
+            "frame_end": 66,
+            "frame_start": 17,
+            "instance_id": 18,
+            "signer_id": 19,
+            "video_id": ["000260", "IMG_1580.mp4"]
+          },
+          {
+            "bbox": [373, 48, 915, 717],
+            "fps": 25,
+            "frame_end": 58,
+            "frame_start": 17,
+            "instance_id": 19,
+            "signer_id": 20,
+            "video_id": ["000261", "IMG_1581.mp4"]
+          },
+          {
+            "bbox": [263, 39, 923, 714],
+            "fps": 25,
+            "frame_end": 50,
+            "frame_start": 18,
+            "instance_id": 20,
+            "signer_id": 21,
+            "video_id": ["000262", "IMG_1582.mp4"]
+          },
+          {
+            "bbox": [407, 34, 915, 718],
+            "fps": 25,
+            "frame_end": 75,
+            "frame_start": 17,
+            "instance_id": 21,
+            "signer_id": 22,
+            "video_id": ["000263", "IMG_1583.mp4"]
+          }
+        ]
+      },
+      {
+        "gloss": "Thank you",
+        "instances": [
+          {
+            "bbox": [392, 182, 907, 700],
+            "fps": 25,
+            "frame_end": 62,
+            "frame_start": 2,
+            "instance_id": 0,
+            "signer_id": 8,
+            "video_id": ["000055", "IMG_1219.mp4"]
+          },
+          {
+            "bbox": [402, 79, 894, 718],
+            "fps": 25,
+            "frame_end": 57,
+            "frame_start": 7,
+            "instance_id": 1,
+            "signer_id": 16,
+            "video_id": ["000219", "IMG_1514.mp4"]
+          },
+          {
+            "bbox": [422, 113, 871, 706],
+            "fps": 25,
+            "frame_end": 70,
+            "frame_start": 3,
+            "instance_id": 2,
+            "signer_id": 9,
+            "video_id": ["000056", "IMG_1220.mp4"]
+          },
+          {
+            "bbox": [387, 152, 831, 700],
+            "fps": 25,
+            "frame_end": 49,
+            "frame_start": 5,
+            "instance_id": 3,
+            "signer_id": 10,
+            "video_id": ["000057", "IMG_1224.mp4"]
+          },
+          {
+            "bbox": [408, 123, 890, 703],
+            "fps": 25,
+            "frame_end": 60,
+            "frame_start": 8,
+            "instance_id": 4,
+            "signer_id": 12,
+            "video_id": ["000060", "IMG_1229.mp4"]
+          },
+          {
+            "bbox": [411, 85, 926, 709],
+            "fps": 25,
+            "frame_end": 50,
+            "frame_start": 0,
+            "instance_id": 5,
+            "signer_id": 13,
+            "video_id": ["000061", "IMG_1230.mp4"]
+          },
+          {
+            "bbox": [385, 84, 855, 713],
+            "fps": 25,
+            "frame_end": 47,
+            "frame_start": 8,
+            "instance_id": 6,
+            "signer_id": 14,
+            "video_id": ["000076", "IMG_1260.mp4"]
+          },
+          {
+            "bbox": [316, 45, 843, 712],
+            "fps": 25,
+            "frame_end": 63,
+            "frame_start": 15,
+            "instance_id": 7,
+            "signer_id": 15,
+            "video_id": ["000078", "IMG_1263.mp4"]
+          },
+          {
+            "bbox": [429, 110, 918, 719],
+            "fps": 25,
+            "frame_end": 76,
+            "frame_start": 18,
+            "instance_id": 8,
+            "signer_id": 2,
+            "video_id": ["000238", "IMG_1542.mp4"]
+          },
+          {
+            "bbox": [374, 62, 897, 718],
+            "fps": 25,
+            "frame_end": 73,
+            "frame_start": 23,
+            "instance_id": 9,
+            "signer_id": 17,
+            "video_id": ["000264", "IMG_1585.mp4"]
+          },
+          {
+            "bbox": [354, 33, 930, 718],
+            "fps": 25,
+            "frame_end": 77,
+            "frame_start": 22,
+            "instance_id": 10,
+            "signer_id": 18,
+            "video_id": ["000265", "IMG_1586.mp4"]
+          },
+          {
+            "bbox": [407, 71, 922, 717],
+            "fps": 25,
+            "frame_end": 73,
+            "frame_start": 27,
+            "instance_id": 11,
+            "signer_id": 21,
+            "video_id": ["000266", "IMG_1587.mp4"]
+          },
+          {
+            "bbox": [355, 43, 943, 717],
+            "fps": 25,
+            "frame_end": 78,
+            "frame_start": 23,
+            "instance_id": 12,
+            "signer_id": 20,
+            "video_id": ["000267", "IMG_1591.mp4"]
+          },
+          {
+            "bbox": [348, 53, 915, 718],
+            "fps": 25,
+            "frame_end": 82,
+            "frame_start": 25,
+            "instance_id": 13,
+            "signer_id": 19,
+            "video_id": ["000268", "IMG_1594.mp4"]
+          },
+          {
+            "bbox": [392, 53, 895, 717],
+            "fps": 25,
+            "frame_end": 83,
+            "frame_start": 33,
+            "instance_id": 14,
+            "signer_id": 22,
+            "video_id": ["000269", "IMG_1595.mp4"]
+          },
+          {
+            "bbox": [337, 102, 920, 711],
+            "fps": 25,
+            "frame_end": 62,
+            "frame_start": 10,
+            "instance_id": 15,
+            "signer_id": 1,
+            "video_id": ["000005", "IMG_1158.mp4"]
+          },
+          {
+            "bbox": [362, 114, 962, 715],
+            "fps": 25,
+            "frame_end": 58,
+            "frame_start": 6,
+            "instance_id": 16,
+            "signer_id": 3,
+            "video_id": ["000006", "IMG_1160.mp4"]
+          },
+          {
+            "bbox": [338, 60, 926, 716],
+            "fps": 25,
+            "frame_end": 59,
+            "frame_start": 3,
+            "instance_id": 17,
+            "signer_id": 5,
+            "video_id": ["000008", "IMG_1163.mp4"]
+          },
+          {
+            "bbox": [387, 104, 874, 717],
+            "fps": 25,
+            "frame_end": 65,
+            "frame_start": 2,
+            "instance_id": 18,
+            "signer_id": 6,
+            "video_id": ["000012", "IMG_1169.mp4"]
+          },
+          {
+            "bbox": [402,98,872,720],
+            "fps": 25,
+            "frame_end": 38,
+            "frame_start": 0,
+            "instance_id": 19,
+            "signer_id": 7,
+            "video_id": ["000013", "IMG_1170.mp4"]
+          }
+
+        ]
+      },     
+{
+    "gloss": "Sorry",
+    "instances": [
+      {
+        "bbox": [372, 81, 880, 720],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start": 8,
+        "instance_id": 0,
+        "signer_id": 6,
+        "video_id": ["000013", "IMG_1171.mp4"]
+      },
+      {
+        "bbox": [411, 111, 859, 714],
+        "fps": 25,
+        "frame_end": 52,
+        "frame_start": 3,
+        "instance_id": 1,
+        "signer_id": 7,
+        "video_id": ["000014", "IMG_1172.mp4"]
+      },
+      {
+        "bbox": [383, 109, 939, 698],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 3,
+        "instance_id": 2,
+        "signer_id": 12,
+        "video_id": ["000062", "IMG_1232.mp4"]
+      },
+      {
+        "bbox": [379, 83, 894, 713],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 4,
+        "instance_id": 3,
+        "signer_id": 13,
+        "video_id": ["000063", "IMG_1233.mp4"]
+      },
+      {
+        "bbox": [407, 100, 906, 718],
+        "fps": 25,
+        "frame_end": 67,
+        "frame_start": 23,
+        "instance_id": 4,
+        "signer_id": 2,
+        "video_id": ["000239", "IMG_1543.mp4"]
+      },
+      {
+        "bbox": [326, 53, 934, 707],
+        "fps": 25,
+        "frame_end": 54,
+        "frame_start": 6,
+        "instance_id": 5,
+        "signer_id": 1,
+        "video_id": ["000064", "IMG_1235.mp4"]
+      },
+      {
+        "bbox": [393, 151, 899, 698],
+        "fps": 25,
+        "frame_end": 61,
+        "frame_start": 13,
+        "instance_id": 6,
+        "signer_id": 3,
+        "video_id": ["000065", "IMG_1237.mp4"]
+      },
+      {
+        "bbox": [362, 97, 851, 697],
+        "fps": 25,
+        "frame_end": 45,
+        "frame_start": 4,
+        "instance_id": 7,
+        "signer_id": 9,
+        "video_id": ["000066", "IMG_1238.mp4"]
+      },
+      {
+        "bbox": [349, 127, 872, 696],
+        "fps": 25,
+        "frame_end": 63,
+        "frame_start": 2,
+        "instance_id": 8,
+        "signer_id": 8,
+        "video_id": ["000067", "IMG_1239.mp4"]
+      },
+      {
+        "bbox": [407, 119, 847, 703],
+        "fps": 25,
+        "frame_end": 54,
+        "frame_start": 2,
+        "instance_id": 9,
+        "signer_id": 9,
+        "video_id": ["000068", "IMG_1240.mp4"]
+      },
+      {
+        "bbox": [359, 88, 875, 718],
+        "fps": 25,
+        "frame_end": 70,
+        "frame_start": 1,
+        "instance_id": 10,
+        "signer_id": 14,
+        "video_id": ["000187", "IMG_1444.mp4"]
+      },
+      {
+        "bbox": [420, 113, 815, 716],
+        "fps": 25,
+        "frame_end": 60,
+        "frame_start": 4,
+        "instance_id": 11,
+        "signer_id": 11,
+        "video_id": ["000069", "IMG_1241.mp4"]
+      },
+      {
+        "bbox": [358, 60, 901, 718],
+        "fps": 25,
+        "frame_end": 64,
+        "frame_start": 7,
+        "instance_id": 12,
+        "signer_id": 16,
+        "video_id": ["000220", "IMG_1515.mp4"]
+      },
+      {
+        "bbox": [354, 51, 899, 717],
+        "fps": 25,
+        "frame_end": 83,
+        "frame_start": 33,
+        "instance_id": 13,
+        "signer_id": 17,
+        "video_id": ["000270", "IMG_1596.mp4"]
+      },
+      {
+        "bbox": [378, 62, 904, 718],
+        "fps": 25,
+        "frame_end": 82,
+        "frame_start": 26,
+        "instance_id": 14,
+        "signer_id": 18,
+        "video_id": ["000271", "IMG_1598.mp4"]
+      },
+      {
+        "bbox": [392, 91, 850, 715],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start": 20,
+        "instance_id": 15,
+        "signer_id": 21,
+        "video_id": ["000272", "IMG_1599.mp4"]
+      },
+      {
+        "bbox": [370, 41, 912, 713],
+        "fps": 25,
+        "frame_end": 74,
+        "frame_start": 26,
+        "instance_id": 16,
+        "signer_id": 20,
+        "video_id": ["000273", "IMG_1600.mp4"]
+      },
+      {
+        "bbox": [392, 45, 923, 717],
+        "fps": 25,
+        "frame_end": 56,
+        "frame_start": 4,
+        "instance_id": 17,
+        "signer_id": 19,
+        "video_id": ["000275", "IMG_1601.mp4"]
+      },
+      {
+        "bbox": [386, 55, 905, 718],
+        "fps": 25,
+        "frame_end": 87,
+        "frame_start": 33,
+        "instance_id": 18,
+        "signer_id": 22,
+        "video_id": ["000276", "IMG_1602.mp4"]
+      },
+      {
+        "bbox": [336,74,945,720],
+        "fps": 25,
+        "frame_end": 46,
+        "frame_start": 0,
+        "instance_id":19,
+        "signer_id": 5,
+        "video_id": ["000277", "IMG_1164.mp4"]
+      }
+
+
+    ]
+  },
+  
+
+  {
+    "gloss": "Welcome",
+    "instances": [
+      {
+        "bbox": [362, 38, 1059, 691],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 4,
+        "instance_id": 0,
+        "signer_id": 6,
+        "video_id": ["000015", "IMG_1174.mp4"]
+      },
+      {
+        "bbox": [239, 109, 1142, 709],
+        "fps": 25,
+        "frame_end": 59,
+        "frame_start": 11,
+        "instance_id": 1,
+        "signer_id": 7,
+        "video_id": ["000016", "IMG_1175.mp4"]
+      },
+      {
+        "bbox": [306, 87, 1142, 714],
+        "fps": 25,
+        "frame_end": 54,
+        "frame_start": 0,
+        "instance_id": 2,
+        "signer_id": 8,
+        "video_id": ["000070", "IMG_1242.mp4"]
+      },
+      {
+        "bbox": [150, 63, 1134, 713],
+        "fps": 25,
+        "frame_end": 53,
+        "frame_start": 7,
+        "instance_id": 3,
+        "signer_id": 9,
+        "video_id": ["000071", "IMG_1244.mp4"]
+      },
+      {
+        "bbox": [150, 42, 1018, 717],
+        "fps": 25,
+        "frame_end": 71,
+        "frame_start": 7,
+        "instance_id": 4,
+        "signer_id": 10,
+        "video_id": ["000240", "IMG_1547.mp4"]
+      },
+      {
+        "bbox": [247, 94, 1140, 716],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 2,
+        "instance_id": 5,
+        "signer_id": 11,
+        "video_id": ["000072", "IMG_1246.mp4"]
+      },
+      {
+        "bbox": [245, 114, 1093, 712],
+        "fps": 25,
+        "frame_end": 59,
+        "frame_start": 4,
+        "instance_id": 6,
+        "signer_id": 10,
+        "video_id": ["000073", "IMG_1248.mp4"]
+      },
+      {
+        "bbox": [150, 79, 1128, 716],
+        "fps": 25,
+        "frame_end": 52,
+        "frame_start": 9,
+        "instance_id": 7,
+        "signer_id": 12,
+        "video_id": ["000079", "IMG_1266.mp4"]
+      },
+      {
+        "bbox": [344, 70, 1270, 715],
+        "fps": 25,
+        "frame_end": 60,
+        "frame_start": 9,
+        "instance_id": 8,
+        "signer_id": 13,
+        "video_id": ["000083", "IMG_1270.mp4"]
+      },
+      {
+        "bbox": [415, 8, 1279, 718],
+        "fps": 25,
+        "frame_end": 39,
+        "frame_start": 7,
+        "instance_id": 9,
+        "signer_id": 14,
+        "video_id": ["000186", "IMG_1443.mp4"]
+      },
+      {
+        "bbox": [139, 31, 930, 717],
+        "fps": 25,
+        "frame_end": 53,
+        "frame_start": 0,
+        "instance_id": 10,
+        "signer_id": 16,
+        "video_id": ["000221", "IMG_1518.mp4"]
+      },
+      {
+        "bbox": [145, 35, 955, 715],
+        "fps": 25,
+        "frame_end": 69,
+        "frame_start": 27,
+        "instance_id": 11,
+        "signer_id": 17,
+        "video_id": ["000276", "IMG_1603.mp4"]
+      },
+      {
+        "bbox": [278, 35, 981, 713],
+        "fps": 25,
+        "frame_end": 88,
+        "frame_start": 6,
+        "instance_id": 12,
+        "signer_id": 18,
+        "video_id": ["000277", "IMG_1604.mp4"]
+      },
+      {
+        "bbox": [252, 23, 951, 718],
+        "fps": 25,
+        "frame_end": 65,
+        "frame_start": 21,
+        "instance_id": 13,
+        "signer_id": 21,
+        "video_id": ["000278", "IMG_1606.mp4"]
+      },
+      {
+        "bbox": [212, 12, 965, 715],
+        "fps": 25,
+        "frame_end": 63,
+        "frame_start": 15,
+        "instance_id": 14,
+        "signer_id": 20,
+        "video_id": ["000279", "IMG_1607.mp4"]
+      },
+      {
+        "bbox": [236, 40, 968, 714],
+        "fps": 25,
+        "frame_end": 53,
+        "frame_start": 6,
+        "instance_id": 15,
+        "signer_id": 19,
+        "video_id": ["000280", "IMG_1608.mp4"]
+      },
+      {
+        "bbox": [331, 30, 939, 718],
+        "fps": 25,
+        "frame_end": 56,
+        "frame_start": 5,
+        "instance_id": 16,
+        "signer_id": 22,
+        "video_id": ["000281", "IMG_1609.mp4"]
+      },
+
+      {
+        "bbox": [372,92,1119,711],
+        "fps": 25,
+        "frame_end":49 ,
+        "frame_start": 0,
+        "instance_id": 15,
+        "signer_id": 5,
+        "video_id": ["000282", "IMG_1165.mp4"]
+      },
+      {
+        "bbox": [132,126,1040,720],
+        "fps": 25,
+        "frame_end":33,
+        "frame_start": 0,
+        "instance_id": 16,
+        "signer_id": 15,
+        "video_id": ["000283", "IMG_1277.mp4"]
+      }
+    ]
+  },
+  {
+    "gloss": "Meet",
+    "instances": [
+      {
+        "bbox": [359, 63, 854, 716],
+        "fps": 25,
+        "frame_end": 56,
+        "frame_start": 2,
+        "instance_id": 0,
+        "signer_id": 5,
+        "video_id": ["000009", "IMG_1166.mp4"]
+      },
+      {
+        "bbox": [350, 127, 889, 717],
+        "fps": 25,
+        "frame_end": 60,
+        "frame_start": 5,
+        "instance_id": 1,
+        "signer_id": 6,
+        "video_id": ["000017", "IMG_1176.mp4"]
+      },
+      {
+        "bbox": [406, 121, 892, 662],
+        "fps": 25,
+        "frame_end": 50,
+        "frame_start": 6,
+        "instance_id": 2,
+        "signer_id": 7,
+        "video_id": ["000018", "IMG_1177.mp4"]
+      },
+      {
+        "bbox": [308, 53, 886, 708],
+        "fps": 25,
+        "frame_end": 59,
+        "frame_start": 0,
+        "instance_id": 3,
+        "signer_id": 8,
+        "video_id": ["000074", "IMG_1250.mp4"]
+      },
+      {
+        "bbox": [90, 77, 913, 719],
+        "fps": 25,
+        "frame_end": 80,
+        "frame_start": 14,
+        "instance_id": 4,
+        "signer_id": 12,
+        "video_id": ["000080", "IMG_1267.mp4"]
+      },
+      {
+        "bbox": [402, 41, 923, 713],
+        "fps": 25,
+        "frame_end": 60,
+        "frame_start": 9,
+        "instance_id": 5,
+        "signer_id": 13,
+        "video_id": ["000084", "IMG_1272.mp4"]
+      },
+      {
+        "bbox": [366, 62, 876, 715],
+        "fps": 25,
+        "frame_end": 85,
+        "frame_start": 6,
+        "instance_id": 6,
+        "signer_id": 14,
+        "video_id": ["000188", "IMG_1445.mp4"]
+      },
+      {
+        "bbox": [294, 36, 956, 719],
+        "fps": 25,
+        "frame_end": 75,
+        "frame_start": 17,
+        "instance_id": 7,
+        "signer_id": 2,
+        "video_id": ["000241", "IMG_1548.mp4"]
+      },
+      {
+        "bbox": [371, 65, 905, 719],
+        "fps": 25,
+        "frame_end": 65,
+        "frame_start": 6,
+        "instance_id": 8,
+        "signer_id": 16,
+        "video_id": ["000222", "IMG_1519.mp4"]
+      },
+      {
+        "bbox": [328, 33, 950, 718],
+        "fps": 25,
+        "frame_end": 66,
+        "frame_start": 25,
+        "instance_id": 9,
+        "signer_id": 17,
+        "video_id": ["000282", "IMG_1610.mp4"]
+      },
+      {
+        "bbox": [349, 52, 899, 718],
+        "fps": 25,
+        "frame_end": 68,
+        "frame_start": 24,
+        "instance_id": 10,
+        "signer_id": 18,
+        "video_id": ["000283", "IMG_1611.mp4"]
+      },
+      {
+        "bbox": [409, 32, 931, 715],
+        "fps": 25,
+        "frame_end": 60,
+        "frame_start": 18,
+        "instance_id": 11,
+        "signer_id": 21,
+        "video_id": ["000284", "IMG_1612.mp4"]
+      },
+      {
+        "bbox": [378, 44, 906, 714],
+        "fps": 25,
+        "frame_end": 72,
+        "frame_start": 10,
+        "instance_id": 12,
+        "signer_id": 20,
+        "video_id": ["000285", "IMG_1613.mp4"]
+      },
+      {
+        "bbox": [416, 53, 926, 717],
+        "fps": 25,
+        "frame_end": 89,
+        "frame_start": 28,
+        "instance_id": 13,
+        "signer_id": 19,
+        "video_id": ["000286", "IMG_1614.mp4"]
+      },
+      {
+        "bbox": [387, 44, 873, 718],
+        "fps": 25,
+        "frame_end": 66,
+        "frame_start": 13,
+        "instance_id": 14,
+        "signer_id": 22,
+        "video_id": ["000287", "IMG_1615.mp4"]
+      },
+      {
+        "bbox": [412,32,813,720],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start":0,
+        "instance_id": 15,
+        "signer_id": 9,
+        "video_id": ["000289", "IMG_1253.mp4"]
+      },
+      {
+        "bbox": [399,118,829,72],
+        "fps": 25,
+        "frame_end": 58 ,
+        "frame_start":0,
+        "instance_id": 16,
+        "signer_id": 10,
+        "video_id": ["000290", "IMG_1256.mp4"]
+      },
+      {
+        "bbox": [399,93,803,720],
+        "fps": 25,
+        "frame_end": 38 ,
+        "frame_start":0,
+        "instance_id": 17,
+        "signer_id": 11,
+        "video_id": ["000291", "IMG_1257.mp4"]
+      }
+    ]
+  },
+  {
+    "gloss": "Best",
+    "instances": [
+      {
+        "bbox": [366, 114, 916, 720],
+        "fps": 25,
+        "frame_end": 52,
+        "frame_start": 4,
+        "instance_id": 0,
+        "signer_id": 6,
+        "video_id": ["000019", "IMG_1178.mp4"]
+      },
+      {
+        "bbox": [368, 91, 883, 720],
+        "fps": 25,
+        "frame_end": 70,
+        "frame_start": 8,
+        "instance_id": 1,
+        "signer_id": 7,
+        "video_id": ["000021", "IMG_1180.mp4"]
+      },
+      {
+        "bbox": [370, 69, 874, 710],
+        "fps": 25,
+        "frame_end": 45,
+        "frame_start": 5,
+        "instance_id": 2,
+        "signer_id": 12,
+        "video_id": ["000081", "IMG_1268.mp4"]
+      },
+      {
+        "bbox": [392, 35, 905, 712],
+        "fps": 25,
+        "frame_end": 48,
+        "frame_start": 3,
+        "instance_id": 3,
+        "signer_id": 13,
+        "video_id": ["000085", "IMG_1273.mp4"]
+      },
+      {
+        "bbox": [362, 134, 851, 705],
+        "fps": 25,
+        "frame_end": 42,
+        "frame_start": 7,
+        "instance_id": 4,
+        "signer_id": 15,
+        "video_id": ["000087", "IMG_1279.mp4"]
+      },
+      {
+        "bbox": [427, 131, 854, 718],
+        "fps": 25,
+        "frame_end": 41,
+        "frame_start": 2,
+        "instance_id": 5,
+        "signer_id": 9,
+        "video_id": ["000089", "IMG_1284.mp4"]
+      },
+      {
+        "bbox": [388, 141, 885, 717],
+        "fps": 25,
+        "frame_end": 48,
+        "frame_start": 4,
+        "instance_id": 6,
+        "signer_id": 10,
+        "video_id": ["000091", "IMG_1291.mp4"]
+      },
+      {
+        "bbox": [292, 106, 885, 717],
+        "fps": 25,
+        "frame_end": 56,
+        "frame_start": 3,
+        "instance_id": 7,
+        "signer_id": 8,
+        "video_id": ["000093", "IMG_1297.mp4"]
+      },
+      {
+        "bbox": [322, 123, 810, 718],
+        "fps": 25,
+        "frame_end": 53,
+        "frame_start": 17,
+        "instance_id": 8,
+        "signer_id": 11,
+        "video_id": ["000095", "IMG_1302.mp4"]
+      },
+      {
+        "bbox": [384, 66, 862, 718],
+        "fps": 25,
+        "frame_end": 60,
+        "frame_start": 10,
+        "instance_id": 9,
+        "signer_id": 14,
+        "video_id": ["000189", "IMG_1446.mp4"]
+      },
+      {
+        "bbox": [345, 158, 845, 718],
+        "fps": 25,
+        "frame_end": 42,
+        "frame_start": 18,
+        "instance_id": 10,
+        "signer_id": 3,
+        "video_id": ["000204", "IMG_1477.mp4"]
+      },
+      {
+        "bbox": [367, 90, 892, 719],
+        "fps": 25,
+        "frame_end": 46,
+        "frame_start": 1,
+        "instance_id": 11,
+        "signer_id": 16,
+        "video_id": ["000223", "IMG_1520.mp4"]
+      },
+      {
+        "bbox": [331, 42, 919, 719],
+        "fps": 25,
+        "frame_end": 72,
+        "frame_start": 28,
+        "instance_id": 12,
+        "signer_id": 2,
+        "video_id": ["000242", "IMG_1549.mp4"]
+      },
+      {
+        "bbox": [388, 69, 904, 718],
+        "fps": 25,
+        "frame_end": 67,
+        "frame_start": 34,
+        "instance_id": 13,
+        "signer_id": 17,
+        "video_id": ["000154", "IMG_1617.mp4"]
+      },
+      {
+        "bbox": [391, 80, 842, 718],
+        "fps": 25,
+        "frame_end": 52,
+        "frame_start": 20,
+        "instance_id": 14,
+        "signer_id": 21,
+        "video_id": ["000155", "IMG_1618.mp4"]
+      },
+      {
+        "bbox": [366, 63, 906, 719.90],
+        "fps": 25,
+        "frame_end": 61,
+        "frame_start": 20,
+        "instance_id": 15,
+        "signer_id": 18,
+        "video_id": ["000290", "IMG_1620.mp4"]
+      },
+      {
+        "bbox": [368, 57, 907, 720],
+        "fps": 25,
+        "frame_end": 52,
+        "frame_start": 14,
+        "instance_id": 16,
+        "signer_id": 20,
+        "video_id": ["000291", "IMG_1621.mp4"]
+      },
+      {
+        "bbox": [411, 44, 889, 715],
+        "fps": 25,
+        "frame_end": 49,
+        "frame_start": 4,
+        "instance_id": 17,
+        "signer_id": 19,
+        "video_id": ["000293", "IMG_1624.mp4"]
+      },
+      {
+        "bbox": [348, 63, 848, 720],
+        "fps": 25,
+        "frame_end": 52,
+        "frame_start": 10,
+        "instance_id": 18,
+        "signer_id": 22,
+        "video_id": ["000295", "IMG_1626.mp4"]
+      }
+    ]
+  },{
+    "gloss": "Fail",
+    "instances": [
+      {
+        "bbox": [381, 115, 950, 720],
+        "fps": 25,
+        "frame_end": 51,
+        "frame_start": 6,
+        "instance_id": 0,
+        "signer_id": 6,
+        "video_id": ["000020", "IMG_1179.mp4"]
+      },
+      {
+        "bbox": [243, 99, 894, 720],
+        "fps": 25,
+        "frame_end": 57,
+        "frame_start": 3,
+        "instance_id": 1,
+        "signer_id": 7,
+        "video_id": ["000022", "IMG_1181.mp4"]
+      },
+      {
+        "bbox": [304, 77, 886, 712],
+        "fps": 25,
+        "frame_end": 46,
+        "frame_start": 1,
+        "instance_id": 2,
+        "signer_id": 12,
+        "video_id": ["000082", "IMG_1269.mp4"]
+      },
+      {
+        "bbox": [249, 68, 852, 720],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 18,
+        "instance_id": 3,
+        "signer_id": 22,
+        "video_id": ["000296", "IMG_1627.mp4"]
+      },
+      {
+        "bbox": [271, 43, 896, 720],
+        "fps": 25,
+        "frame_end": 56,
+        "frame_start": 5,
+        "instance_id": 4,
+        "signer_id": 19,
+        "video_id": ["000294", "IMG_1625.mp4"]
+      },
+      {
+        "bbox": [218, 82, 883, 716],
+        "fps": 25,
+        "frame_end": 72,
+        "frame_start": 21,
+        "instance_id": 5,
+        "signer_id": 17,
+        "video_id": ["000297", "IMG_1630.mp4"]
+      },
+      {
+        "bbox": [348, 66, 901, 714],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start": 2,
+        "instance_id": 6,
+        "signer_id": 13,
+        "video_id": ["000086", "IMG_1274.mp4"]
+      },
+      {
+        "bbox": [245, 63, 845, 720],
+        "fps": 25,
+        "frame_end": 57,
+        "frame_start": 19,
+        "instance_id": 7,
+        "signer_id": 21,
+        "video_id": ["000298", "IMG_1631.mp4"]
+      },
+      {
+        "bbox": [285, 65, 886, 720],
+        "fps": 25,
+        "frame_end": 66,
+        "frame_start": 23,
+        "instance_id": 8,
+        "signer_id": 18,
+        "video_id": ["000299", "IMG_1633.mp4"]
+      },
+      {
+        "bbox": [306, 95, 842, 718],
+        "fps": 25,
+        "frame_end": 53,
+        "frame_start": 4,
+        "instance_id": 9,
+        "signer_id": 15,
+        "video_id": ["000088", "IMG_1281.mp4"]
+      },
+      {
+        "bbox": [327, 154, 851, 713],
+        "fps": 25,
+        "frame_end": 45,
+        "frame_start": 2,
+        "instance_id": 10,
+        "signer_id": 10,
+        "video_id": ["000092", "IMG_1292.mp4"]
+      },
+      {
+        "bbox": [288, 128, 809, 717],
+        "fps": 25,
+        "frame_end": 46,
+        "frame_start": 3,
+        "instance_id": 11,
+        "signer_id": 11,
+        "video_id": ["000096", "IMG_1303.mp4"]
+      },
+      {
+        "bbox": [166, 89, 858, 718],
+        "fps": 25,
+        "frame_end": 69,
+        "frame_start": 13,
+        "instance_id": 12,
+        "signer_id": 14,
+        "video_id": ["000190", "IMG_1447.mp4"]
+      },
+      {
+        "bbox": [356, 173, 895, 718],
+        "fps": 25,
+        "frame_end": 81,
+        "frame_start": 25,
+        "instance_id": 13,
+        "signer_id": 3,
+        "video_id": ["000205", "IMG_1479.mp4"]
+      },
+      {
+        "bbox": [311, 98, 899, 714],
+        "fps": 25,
+        "frame_end": 89,
+        "frame_start": 34,
+        "instance_id": 14,
+        "signer_id": 16,
+        "video_id": ["000224", "IMG_1521.mp4"]
+      },
+      {
+        "bbox": [162, 38, 904, 717],
+        "fps": 25,
+        "frame_end": 70,
+        "frame_start": 22,
+        "instance_id": 15,
+        "signer_id": 2,
+        "video_id": ["000243", "IMG_1550.mp4"]
+      },
+      {
+        "bbox": [194, 74, 873, 718],
+        "fps": 25,
+        "frame_end": 44,
+        "frame_start": 17,
+        "instance_id": 16,
+        "signer_id": 20,
+        "video_id": ["000292", "IMG_1623.mp4"]
+      },
+      {
+        "bbox": [267,129,920,720],
+        "fps": 25,
+        "frame_end": 47,
+        "frame_start": 0,
+        "instance_id": 17,
+        "signer_id": 8,
+        "video_id": ["000293", "IMG_1298.mp4"]
+      },
+      {
+        "bbox": [353,115,910,720],
+        "fps": 25,
+        "frame_end": 47,
+        "frame_start": 0,
+        "instance_id": 18,
+        "signer_id": 9,
+        "video_id": ["000294", "IMG_1286.mp4"]
+      }
+    ]
+  },
+  {
+    "gloss": "Free",
+    "instances": [
+      {
+        "bbox": [123, 54, 1108, 718],
+        "fps": 25,
+        "frame_end": 61,
+        "frame_start": 8,
+        "instance_id": 0,
+        "signer_id": 6,
+        "video_id": ["000023", "IMG_1182.mp4"]
+      },
+      {
+        "bbox": [292, 83, 956, 718],
+        "fps": 25,
+        "frame_end": 59,
+        "frame_start": 2,
+        "instance_id": 1,
+        "signer_id": 7,
+        "video_id": ["000024", "IMG_1183.mp4"]
+      },
+      {
+        "bbox": [274, 102, 931, 718],
+        "fps": 25,
+        "frame_end": 76,
+        "frame_start": 28,
+        "instance_id": 2,
+        "signer_id": 15,
+        "video_id": ["000110", "IMG_1329.mp4"]
+      },
+      {
+        "bbox": [330, 96, 907, 717],
+        "fps": 25,
+        "frame_end": 50,
+        "frame_start": 9,
+        "instance_id": 3,
+        "signer_id": 11,
+        "video_id": ["000097", "IMG_1307.mp4"]
+      },
+      {
+        "bbox": [331, 62, 957, 720],
+        "fps": 25,
+        "frame_end": 72,
+        "frame_start": 21,
+        "instance_id": 4,
+        "signer_id": 18,
+        "video_id": ["000300", "IMG_1634.mp4"]
+      },
+      {
+        "bbox": [364, 108, 923, 718],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start": 23,
+        "instance_id": 5,
+        "signer_id": 10,
+        "video_id": ["000098", "IMG_1308.mp4"]
+      },
+      {
+        "bbox": [392, 95, 935, 713],
+        "fps": 25,
+        "frame_end": 70,
+        "frame_start": 18,
+        "instance_id": 6,
+        "signer_id": 12,
+        "video_id": ["000099", "IMG_1309.mp4"]
+      },
+      {
+        "bbox": [363, 84, 980, 713],
+        "fps": 25,
+        "frame_end": 46,
+        "frame_start": 7,
+        "instance_id": 7,
+        "signer_id": 9,
+        "video_id": ["000100", "IMG_1311.mp4"]
+      },
+      {
+        "bbox": [372, 93, 872, 720],
+        "fps": 25,
+        "frame_end": 60,
+        "frame_start": 20,
+        "instance_id": 8,
+        "signer_id": 21,
+        "video_id": ["000301", "IMG_1635.mp4"]
+      },
+      {
+        "bbox": [314, 80, 913, 720],
+        "fps": 25,
+        "frame_end": 71,
+        "frame_start": 22,
+        "instance_id": 9,
+        "signer_id": 20,
+        "video_id": ["000302", "IMG_1637.mp4"]
+      },
+      {
+        "bbox": [297, 46, 1053, 718],
+        "fps": 25,
+        "frame_end": 72,
+        "frame_start": 27,
+        "instance_id": 10,
+        "signer_id": 16,
+        "video_id": ["000225", "IMG_1522.mp4"]
+      },
+      {
+        "bbox": [],
+        "fps": 25,
+        "frame_end": 67,
+        "frame_start": 6,
+        "instance_id": 11,
+        "signer_id": 19,
+        "video_id": ["000303", "IMG_1638.mp4"]
+      },
+      {
+        "bbox": [337, 59, 861, 720],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 10,
+        "instance_id": 12,
+        "signer_id": 22,
+        "video_id": ["000304", "IMG_1643.mp4"]
+      },
+      {
+        "bbox": [314, 131, 949, 713],
+        "fps": 25,
+        "frame_end": 44,
+        "frame_start": 11,
+        "instance_id": 13,
+        "signer_id": 3,
+        "video_id": ["000173", "IMG_1480.mp4"]
+      },
+      {
+        "bbox": [305, 101, 900, 717],
+        "fps": 25,
+        "frame_end": 72,
+        "frame_start": 22,
+        "instance_id": 14,
+        "signer_id": 14,
+        "video_id": ["000191", "IMG_1456.mp4"]
+      },
+      {
+        "bbox": [265, 40, 1024, 718],
+        "fps": 25,
+        "frame_end": 75,
+        "frame_start": 21,
+        "instance_id": 15,
+        "signer_id": 2,
+        "video_id": ["000245", "IMG_1552.mp4"]
+      }
+    ]
+  },
+  {
+    "gloss": "Wait",
+    "instances": [
+      {
+        "bbox": [371, 29, 1048, 720],
+        "fps": 25,
+        "frame_end": 61,
+        "frame_start": 6,
+        "instance_id": 0,
+        "signer_id": 6,
+        "video_id": ["000025", "IMG_1184.mp4"]
+      },
+      {
+        "bbox": [402, 97, 902, 720],
+        "fps": 25,
+        "frame_end": 63,
+        "frame_start": 8,
+        "instance_id": 1,
+        "signer_id": 7,
+        "video_id": ["000027", "IMG_1186.mp4"]
+      },
+      {
+        "bbox": [380, 106, 840, 718],
+        "fps": 25,
+        "frame_end": 72,
+        "frame_start": 38,
+        "instance_id": 2,
+        "signer_id": 15,
+        "video_id": ["000111", "IMG_1331.mp4"]
+      },
+      {
+        "bbox": [396, 102, 932, 720],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start": 10,
+        "instance_id": 3,
+        "signer_id": 13,
+        "video_id": ["000112", "IMG_1333.mp4"]
+      },
+      {
+        "bbox": [439, 143, 855, 720],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start": 28,
+        "instance_id": 4,
+        "signer_id": 11,
+        "video_id": ["000109", "IMG_1327.mp4"]
+      },
+      {
+        "bbox": [396, 110, 892, 714],
+        "fps": 25,
+        "frame_end": 65,
+        "frame_start": 2,
+        "instance_id": 5,
+        "signer_id": 9,
+        "video_id": ["000101", "IMG_1313.mp4"]
+      },
+      {
+        "bbox": [382, 147, 867, 716],
+        "fps": 25,
+        "frame_end": 49,
+        "frame_start": 3,
+        "instance_id": 6,
+        "signer_id": 10,
+        "video_id": ["000102", "IMG_1314.mp4"]
+      },
+      {
+        "bbox": [385, 111, 890, 707],
+        "fps": 25,
+        "frame_end": 63,
+        "frame_start": 18,
+        "instance_id": 7,
+        "signer_id": 8,
+        "video_id": ["000103", "IMG_1315.mp4"]
+      },
+      {
+        "bbox": [452, 118, 899, 714],
+        "fps": 25,
+        "frame_end": 73,
+        "frame_start": 28,
+        "instance_id": 8,
+        "signer_id": 12,
+        "video_id": ["000104", "IMG_1317.mp4"]
+      },
+      {
+        "bbox": [311, 123, 847, 714],
+        "fps": 25,
+        "frame_end": 81,
+        "frame_start": 35,
+        "instance_id": 9,
+        "signer_id": 14,
+        "video_id": ["000192", "IMG_1458.mp4"]
+      },
+      {
+        "bbox": [388, 185, 886, 719],
+        "fps": 25,
+        "frame_end": 57,
+        "frame_start": 25,
+        "instance_id": 10,
+        "signer_id": 3,
+        "video_id": ["000206", "IMG_1482.mp4"]
+      },
+      {
+        "bbox": [397, 113, 899, 717],
+        "fps": 25,
+        "frame_end": 60,
+        "frame_start": 12,
+        "instance_id": 11,
+        "signer_id": 16,
+        "video_id": ["000226", "IMG_1523.mp4"]
+      },
+      {
+        "bbox": [274, 42, 880, 717],
+        "fps": 25,
+        "frame_end": 54,
+        "frame_start": 19,
+        "instance_id": 12,
+        "signer_id": 2,
+        "video_id": ["000244", "IMG_1551.mp4"]
+      },
+      {
+        "bbox": [371, 63, 922, 720],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start": 19,
+        "instance_id": 13,
+        "signer_id": 18,
+        "video_id": ["000305", "IMG_1644.mp4"]
+      },
+      {
+        "bbox": [357, 81, 888, 720],
+        "fps": 25,
+        "frame_end": 45,
+        "frame_start": 13,
+        "instance_id": 14,
+        "signer_id": 20,
+        "video_id": ["000306", "IMG_1646.mp4"]
+      },
+      {
+        "bbox": [424, 72, 907, 720],
+        "fps": 25,
+        "frame_end": 75,
+        "frame_start": 13,
+        "instance_id": 15,
+        "signer_id": 19,
+        "video_id": ["000307", "IMG_1647.mp4"]
+      },
+      {
+        "bbox": [384, 57, 876, 720],
+        "fps": 25,
+        "frame_end": 46,
+        "frame_start": 8,
+        "instance_id": 16,
+        "signer_id": 21,
+        "video_id": ["000308", "IMG_1648.mp4"]
+      },
+      {
+        "bbox": [374, 62, 863, 720],
+        "fps": 25,
+        "frame_end": 80,
+        "frame_start": 28,
+        "instance_id": 17,
+        "signer_id": 22,
+        "video_id": ["000309", "IMG_1650.mp4"]
+      },
+      {
+        "bbox": [343, 93, 901, 720],
+        "fps": 25,
+        "frame_end": 58,
+        "frame_start": 24,
+        "instance_id": 18,
+        "signer_id": 17,
+        "video_id": ["000310", "IMG_1651.mp4"]
+      }
+    ]
+  },{
+    "gloss": "Home",
+    "instances": [
+      {
+        "bbox": [347, 136, 938, 720],
+        "fps": 25,
+        "frame_end": 59,
+        "frame_start": 9,
+        "instance_id": 0,
+        "signer_id": 6,
+        "video_id": ["000026", "IMG_1185.mp4"]
+      },
+      {
+        "bbox": [386, 102, 977, 720],
+        "fps": 25,
+        "frame_end": 63,
+        "frame_start": 8,
+        "instance_id": 1,
+        "signer_id": 7,
+        "video_id": ["000028", "IMG_1187.mp4"]
+      },
+      {
+        "bbox": [374, 50, 941, 720],
+        "fps": 25,
+        "frame_end": 64,
+        "frame_start": 12,
+        "instance_id": 2,
+        "signer_id": 13,
+        "video_id": ["000113", "IMG_1337.mp4"]
+      },
+      {
+        "bbox": [384, 80, 910, 719],
+        "fps": 25,
+        "frame_end": 44,
+        "frame_start": 8,
+        "instance_id": 3,
+        "signer_id": 15,
+        "video_id": ["000114", "IMG_1339.mp4"]
+      },
+      {
+        "bbox": [402, 154, 892, 720],
+        "fps": 25,
+        "frame_end": 67,
+        "frame_start": 8,
+        "instance_id": 4,
+        "signer_id": 11,
+        "video_id": ["000115", "IMG_1341.mp4"]
+      },
+      {
+        "bbox": [391, 148, 891, 720],
+        "fps": 25,
+        "frame_end": 52,
+        "frame_start": 3,
+        "instance_id": 5,
+        "signer_id": 9,
+        "video_id": ["000116", "IMG_1342.mp4"]
+      },
+      {
+        "bbox": [421, 93, 965, 720],
+        "fps": 25,
+        "frame_end": 52,
+        "frame_start": 3,
+        "instance_id": 6,
+        "signer_id": 10,
+        "video_id": ["000117", "IMG_1343.mp4"]
+      },
+      {
+        "bbox": [402, 103, 945, 715],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 4,
+        "instance_id": 7,
+        "signer_id": 8,
+        "video_id": ["000118", "IMG_1345.mp4"]
+      },
+      {
+        "bbox": [412, 119, 918, 712],
+        "fps": 25,
+        "frame_end": 75,
+        "frame_start": 28,
+        "instance_id": 8,
+        "signer_id": 12,
+        "video_id": ["000105", "IMG_1318.mp4"]
+      },
+      {
+        "bbox": [209, 79, 974, 718],
+        "fps": 25,
+        "frame_end": 79,
+        "frame_start": 20,
+        "instance_id": 9,
+        "signer_id": 14,
+        "video_id": ["000193", "IMG_1459.mp4"]
+      },
+      {
+        "bbox": [306, 150, 956, 718],
+        "fps": 25,
+        "frame_end": 37,
+        "frame_start": 3,
+        "instance_id": 10,
+        "signer_id": 3,
+        "video_id": ["000207", "IMG_1487.mp4"]
+      },
+      {
+        "bbox": [377, 67, 928, 718],
+        "fps": 25,
+        "frame_end": 68,
+        "frame_start": 27,
+        "instance_id": 11,
+        "signer_id": 16,
+        "video_id": ["000227", "IMG_1524.mp4"]
+      },
+      {
+        "bbox": [351, 52, 974, 717],
+        "fps": 25,
+        "frame_end": 59,
+        "frame_start": 13,
+        "instance_id": 12,
+        "signer_id": 2,
+        "video_id": ["000246", "IMG_1553.mp4"]
+      },
+      {
+        "bbox": [319, 100, 909, 720],
+        "fps": 25,
+        "frame_end": 67,
+        "frame_start": 16,
+        "instance_id": 13,
+        "signer_id": 18,
+        "video_id": ["000311", "IMG_1652.mp4"]
+      },
+      {
+        "bbox": [406, 118, 939, 720],
+        "fps": 25,
+        "frame_end": 69,
+        "frame_start": 14,
+        "instance_id": 14,
+        "signer_id": 19,
+        "video_id": ["000312", "IMG_1654.mp4"]
+      },
+      {
+        "bbox": [409, 124, 954, 717],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 14,
+        "instance_id": 15,
+        "signer_id": 20,
+        "video_id": ["000313", "IMG_1655.mp4"]
+      },
+      {
+        "bbox": [414, 69, 897, 720],
+        "fps": 25,
+        "frame_end": 67,
+        "frame_start": 10,
+        "instance_id": 16,
+        "signer_id": 22,
+        "video_id": ["000314", "IMG_1658.mp4"]
+      },
+      {
+        "bbox": [387, 111, 910, 720],
+        "fps": 25,
+        "frame_end": 71,
+        "frame_start": 23,
+        "instance_id": 17,
+        "signer_id": 21,
+        "video_id": ["000315", "IMG_1661.mp4"]
+      },
+      {
+        "bbox": [389, 82, 984, 720],
+        "fps": 25,
+        "frame_end": 72,
+        "frame_start": 28,
+        "instance_id": 18,
+        "signer_id": 17,
+        "video_id": ["000316", "IMG_1662.mp4"]
+      }
+    ]
+  },
+  {
+    "gloss": "Friend",
+    "instances": [
+      {
+        "bbox": [366, 126, 877, 718],
+        "fps": 25,
+        "frame_end": 58,
+        "frame_start": 8,
+        "instance_id": 0,
+        "signer_id": 6,
+        "video_id": ["000029", "IMG_1188.mp4"]
+      },
+      {
+        "bbox": [356, 96, 823, 720],
+        "fps": 25,
+        "frame_end": 66,
+        "frame_start": 10,
+        "instance_id": 1,
+        "signer_id": 12,
+        "video_id": ["000048", "IMG_1319.mp4"]
+      },
+      {
+        "bbox": [391, 94, 891, 720],
+        "fps": 25,
+        "frame_end": 50,
+        "frame_start": 7,
+        "instance_id": 2,
+        "signer_id": 7,
+        "video_id": ["000030", "IMG_1189.mp4"]
+      },
+      {
+        "bbox": [366, 103, 852, 720],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 3,
+        "instance_id": 3,
+        "signer_id": 9,
+        "video_id": ["000119", "IMG_1346.mp4"]
+      },
+      {
+        "bbox": [440, 111, 888, 718.59],
+        "fps": 25,
+        "frame_end": 45,
+        "frame_start": 7,
+        "instance_id": 4,
+        "signer_id": 11,
+        "video_id": ["000120", "IMG_1347.mp4"]
+      },
+      {
+        "bbox": [354, 106, 917, 720],
+        "fps": 25,
+        "frame_end": 42,
+        "frame_start": 7,
+        "instance_id": 5,
+        "signer_id": 8,
+        "video_id": ["000121", "IMG_1349.mp4"]
+      },
+      {
+        "bbox": [431, 129, 889, 720],
+        "fps": 25,
+        "frame_end": 66,
+        "frame_start": 6,
+        "instance_id": 6,
+        "signer_id": 10,
+        "video_id": ["000122", "IMG_1350.mp4"]
+      },
+      {
+        "bbox": [390, 78, 887, 718],
+        "fps": 25,
+        "frame_end": 48,
+        "frame_start": 7,
+        "instance_id": 7,
+        "signer_id": 15,
+        "video_id": ["000123", "IMG_1351.mp4"]
+      },
+      {
+        "bbox": [397, 55, 944, 718.90],
+        "fps": 25,
+        "frame_end": 64,
+        "frame_start": 15,
+        "instance_id": 8,
+        "signer_id": 13,
+        "video_id": ["000124", "IMG_1352.mp4"]
+      },
+      {
+        "bbox": [344, 100, 895, 717],
+        "fps": 25,
+        "frame_end": 63,
+        "frame_start": 18,
+        "instance_id": 9,
+        "signer_id": 14,
+        "video_id": ["000194", "IMG_1460.mp4"]
+      },
+      {
+        "bbox": [439, 176, 897, 719],
+        "fps": 25,
+        "frame_end": 56,
+        "frame_start": 5,
+        "instance_id": 10,
+        "signer_id": 3,
+        "video_id": ["000208", "IMG_1488.mp4"]
+      },
+      {
+        "bbox": [380, 93, 934, 717],
+        "fps": 25,
+        "frame_end": 74,
+        "frame_start": 25,
+        "instance_id": 11,
+        "signer_id": 16,
+        "video_id": ["000228", "IMG_1525.mp4"]
+      },
+      {
+        "bbox": [396, 53, 961, 718],
+        "fps": 25,
+        "frame_end": 63,
+        "frame_start": 18,
+        "instance_id": 12,
+        "signer_id": 2,
+        "video_id": ["000248", "IMG_1558.mp4"]
+      },
+      {
+        "bbox": [320, 99, 920, 720],
+        "fps": 25,
+        "frame_end": 78,
+        "frame_start": 25,
+        "instance_id": 13,
+        "signer_id": 18,
+        "video_id": ["000317", "IMG_1663.mp4"]
+      },
+      {
+        "bbox": [360, 54, 845, 720],
+        "fps": 25,
+        "frame_end": 74,
+        "frame_start": 25,
+        "instance_id": 14,
+        "signer_id": 22,
+        "video_id": ["000318", "IMG_1664.mp4"]
+      },
+      {
+        "bbox": [394, 118, 891, 720],
+        "fps": 25,
+        "frame_end": 59,
+        "frame_start": 22,
+        "instance_id": 15,
+        "signer_id": 20,
+        "video_id": ["000319", "IMG_1666.mp4"]
+      },
+      {
+        "bbox": [375, 53, 855, 720],
+        "fps": 25,
+        "frame_end": 53,
+        "frame_start": 15,
+        "instance_id": 16,
+        "signer_id": 21,
+        "video_id": ["000320", "IMG_1667.mp4"]
+      },
+      {
+        "bbox": [335, 97, 907, 720],
+        "fps": 25,
+        "frame_end": 59,
+        "frame_start": 20,
+        "instance_id": 17,
+        "signer_id": 17,
+        "video_id": ["000321", "IMG_1669.mp4"]
+      },
+      {
+        "bbox": [371, 116, 890, 720],
+        "fps": 25,
+        "frame_end": 77,
+        "frame_start": 21,
+        "instance_id": 18,
+        "signer_id": 19,
+        "video_id": ["000322", "IMG_1671.mp4"]
+      }
+    ]
+  },
+  {
+    "gloss": "Fine",
+    "instances": [
+      {
+        "bbox": [397, 118, 917, 718],
+        "fps": 25,
+        "frame_end": 53,
+        "frame_start": 4,
+        "instance_id": 0,
+        "signer_id": 6,
+        "video_id": ["000031", "IMG_1190.mp4"]
+      },
+      {
+        "bbox": [310, 78, 783, 720],
+        "fps": 25,
+        "frame_end": 71,
+        "frame_start": 22,
+        "instance_id": 1,
+        "signer_id": 12,
+        "video_id": ["000049", "IMG_1320.mp4"]
+      },
+      {
+        "bbox": [388, 100, 903, 720],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start": 5,
+        "instance_id": 2,
+        "signer_id": 7,
+        "video_id": ["000032", "IMG_1191.mp4"]
+      },
+      {
+        "bbox": [377, 50, 899, 720],
+        "fps": 25,
+        "frame_end": 72,
+        "frame_start": 13,
+        "instance_id": 3,
+        "signer_id": 13,
+        "video_id": ["000125", "IMG_1354.mp4"]
+      },
+      {
+        "bbox": [418, 99, 898, 720],
+        "fps": 25,
+        "frame_end": 49,
+        "frame_start": 10,
+        "instance_id": 4,
+        "signer_id": 15,
+        "video_id": ["000126", "IMG_1355.mp4"]
+      },
+      {
+        "bbox": [359, 106, 895, 720],
+        "fps": 25,
+        "frame_end": 45,
+        "frame_start": 5,
+        "instance_id": 5,
+        "signer_id": 8,
+        "video_id": ["000127", "IMG_1356.mp4"]
+      },
+      {
+        "bbox": [460, 149, 885, 720],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 11,
+        "instance_id": 6,
+        "signer_id": 11,
+        "video_id": ["000128", "IMG_1357.mp4"]
+      },
+      {
+        "bbox": [443, 155, 902, 720],
+        "fps": 25,
+        "frame_end": 50,
+        "frame_start": 8,
+        "instance_id": 7,
+        "signer_id": 10,
+        "video_id": ["000129", "IMG_1358.mp4"]
+      },
+      {
+        "bbox": [388, 128, 882, 720],
+        "fps": 25,
+        "frame_end": 47,
+        "frame_start": 4,
+        "instance_id": 8,
+        "signer_id": 9,
+        "video_id": ["000130", "IMG_1359.mp4"]
+      },
+      {
+        "bbox": [340, 131, 834, 717],
+        "fps": 25,
+        "frame_end": 70,
+        "frame_start": 22,
+        "instance_id": 9,
+        "signer_id": 14,
+        "video_id": ["000195", "IMG_1461.mp4"]
+      },
+      {
+        "bbox": [359, 139, 870, 717],
+        "fps": 25,
+        "frame_end": 47,
+        "frame_start": 21,
+        "instance_id": 10,
+        "signer_id": 3,
+        "video_id": ["000209", "IMG_1490.mp4"]
+      },
+      {
+        "bbox": [395, 104, 906, 718],
+        "fps": 25,
+        "frame_end": 58,
+        "frame_start": 9,
+        "instance_id": 11,
+        "signer_id": 16,
+        "video_id": ["000229", "IMG_1526.mp4"]
+      },
+      {
+        "bbox": [417, 48, 897, 717],
+        "fps": 25,
+        "frame_end": 65,
+        "frame_start": 27,
+        "instance_id": 12,
+        "signer_id": 2,
+        "video_id": ["000250", "IMG_1559.mp4"]
+      },
+      {
+        "bbox": [341, 70, 864, 720],
+        "fps": 25,
+        "frame_end": 58,
+        "frame_start": 20,
+        "instance_id": 13,
+        "signer_id": 18,
+        "video_id": ["000323", "IMG_1672.mp4"]
+      },
+      {
+        "bbox": [361, 54, 861, 71],
+        "fps": 25,
+        "frame_end": 68,
+        "frame_start": 21,
+        "instance_id": 14,
+        "signer_id": 22,
+        "video_id": ["000324", "IMG_1673.mp4"]
+      },
+      {
+        "bbox": [326, 119, 897, 720],
+        "fps": 25,
+        "frame_end": 58,
+        "frame_start": 20,
+        "instance_id": 15,
+        "signer_id": 17,
+        "video_id": ["000325", "IMG_1674.mp4"]
+      },
+      {
+        "bbox": [374, 213, 889, 720],
+        "fps": 25,
+        "frame_end": 58,
+        "frame_start": 17,
+        "instance_id": 16,
+        "signer_id": 20,
+        "video_id": ["000326", "IMG_1675.mp4"]
+      },
+      {
+        "bbox": [362, 104, 874, 720],
+        "fps": 25,
+        "frame_end": 65,
+        "frame_start": 17,
+        "instance_id": 17,
+        "signer_id": 19,
+        "video_id": ["000327", "IMG_1677.mp4"]
+      },
+      {
+        "bbox": [430, 132, 872, 720],
+        "fps": 25,
+        "frame_end": 70,
+        "frame_start": 24,
+        "instance_id": 18,
+        "signer_id": 21,
+        "video_id": ["000328", "IMG_1678.mp4"]
+      }
+    ]
+  },
+
+    {
+  "gloss": "Wedding",
+  "instances": [
+    {
+      "bbox": [372, 105, 892, 720],
+      "fps": 25,
+      "frame_end": 66,
+      "frame_start": 8,
+      "instance_id": 0,
+      "signer_id": 7,
+      "video_id": ["000033", "IMG_1192.mp4"]
+    },
+    {
+      "bbox": [340,159,882,720],
+      "fps": 25,
+      "frame_end": 59,
+      "frame_start": 11,
+      "instance_id": 1,
+      "signer_id": 6,
+      "video_id": ["000034", "IMG_1193.mp4"]
+    },
+    {
+      "bbox": [369, 91, 845, 720],
+      "fps": 25,
+      "frame_end": 77,
+      "frame_start": 21,
+      "instance_id": 2,
+      "signer_id": 12,
+      "video_id": ["000050", "IMG_1321.mp4"]
+    },
+    {
+      "bbox": [452, 140, 858, 720],
+      "fps": 25,
+      "frame_end": 57,
+      "frame_start": 5,
+      "instance_id": 3,
+      "signer_id": 9,
+      "video_id": ["000131", "IMG_1360.mp4"]
+    },
+    {
+      "bbox": [354, 143, 844, 715],
+      "fps": 25,
+      "frame_end": 77,
+      "frame_start": 21,
+      "instance_id": 4,
+      "signer_id": 14,
+      "video_id": ["000196", "IMG_1462.mp4"]
+    },
+    {
+      "bbox": [386, 180, 909, 718],
+      "fps": 25,
+      "frame_end": 46,
+      "frame_start": 19,
+      "instance_id": 5,
+      "signer_id": 3,
+      "video_id": ["000210", "IMG_1491.mp4"]
+    },
+    {
+      "bbox": [393, 75, 912, 718],
+      "fps": 25,
+      "frame_end": 60,
+      "frame_start": 17,
+      "instance_id": 6,
+      "signer_id": 16,
+      "video_id": ["000230", "IMG_1527.mp4"]
+    },
+    {
+      "bbox": [375, 44, 939, 719],
+      "fps": 25,
+      "frame_end": 62,
+      "frame_start": 25,
+      "instance_id": 7,
+      "signer_id": 2,
+      "video_id": ["000251", "IMG_1561.mp4"]
+    },
+    {
+      "bbox": [354, 77, 915, 718],
+      "fps": 25,
+      "frame_end": 69,
+      "frame_start": 25,
+      "instance_id": 8,
+      "signer_id": 18,
+      "video_id": ["000329", "IMG_1680.mp4"]
+    },
+    {
+      "bbox": [377, 68, 877, 720],
+      "fps": 25,
+      "frame_end": 62,
+      "frame_start": 20,
+      "instance_id": 9,
+      "signer_id": 19,
+      "video_id": ["000330", "IMG_1681.mp4"]
+    },
+    {
+      "bbox": [363, 56, 928, 720],
+      "fps": 25,
+      "frame_end": 51,
+      "frame_start": 1,
+      "instance_id": 10,
+      "signer_id": 17,
+      "video_id": ["000331", "IMG_1682.mp4"]
+    },
+    {
+      "bbox": [373, 101, 849, 720],
+      "fps": 25,
+      "frame_end": 65,
+      "frame_start": 14,
+      "instance_id": 11,
+      "signer_id": 21,
+      "video_id": ["000332", "IMG_1683.mp4"]
+    },
+    {
+      "bbox": [433, 85, 945, 720],
+      "fps": 25,
+      "frame_end": 57,
+      "frame_start": 17,
+      "instance_id": 12,
+      "signer_id": 20,
+      "video_id": ["000333", "IMG_1684.mp4"]
+    },
+    {
+      "bbox": [374, 78, 843, 720],
+      "fps": 25,
+      "frame_end": 74,
+      "frame_start": 15,
+      "instance_id": 13,
+      "signer_id": 22,
+      "video_id": ["000334", "IMG_1685.mp4"]
+    },
+    {
+      "bbox": [452, 140, 858, 720],
+      "fps": 25,
+      "frame_end": 57,
+      "frame_start": 5,
+      "instance_id": 14,
+      "signer_id": 9,
+      "video_id": ["000131", "IMG_1360.mp4"]
+    },
+    {
+      "bbox": [443, 98, 899, 718],
+      "fps": 25,
+      "frame_end": 51,
+      "frame_start":10 ,
+      "instance_id": 15,
+      "signer_id": 11,
+      "video_id": ["000132", "IMG_1361.mp4"]
+    },
+    {
+      "bbox": [356, 118, 904, 720],
+      "fps": 25,
+      "frame_end": 57,
+      "frame_start": 4,
+      "instance_id": 16,
+      "signer_id": 8,
+      "video_id": ["000133", "IMG_1363.mp4"]
+    },
+    {
+      "bbox": [464, 139, 933, 720],
+      "fps": 25,
+      "frame_end": 59,
+      "frame_start": 12,
+      "instance_id": 17,
+      "signer_id": 10,
+      "video_id": ["000134", "IMG_1365.mp4"]
+    },
+    {
+      "bbox": [391, 87, 892, 720],
+      "fps": 25,
+      "frame_end": 50,
+      "frame_start": 4,
+      "instance_id": 18,
+      "signer_id": 15,
+      "video_id": ["000135", "IMG_1366.mp4"]
+    },
+    {
+      "bbox": [409, 46, 963, 717],
+      "fps": 25,
+      "frame_end": 67,
+      "frame_start": 21,
+      "instance_id": 19,
+      "signer_id": 13,
+      "video_id": ["000136", "IMG_1367.mp4"]
+    },
+    {
+      "bbox": [363, 56, 902, 720],
+      "fps": 25,
+      "frame_end": 62,
+      "frame_start": 25,
+      "instance_id": 20,
+      "signer_id": 13,
+      "video_id": ["000137", "IMG_1369.mp4"]
+    },
+    {
+      "bbox": [374, 134, 939, 720],
+      "fps": 25,
+      "frame_end": 55,
+      "frame_start": 13,
+      "instance_id": 21,
+      "signer_id": 15,
+      "video_id": ["000138", "IMG_1370.mp4"]
+    },
+    {
+      "bbox": [424, 117, 907, 720],
+      "fps": 25,
+      "frame_end": 56,
+      "frame_start": 8,
+      "instance_id": 22,
+      "signer_id": 10,
+      "video_id": ["000139", "IMG_1371.mp4"]
+    },
+    {
+      "bbox": [348, 79, 913, 720],
+      "fps": 25,
+      "frame_end": 73,
+      "frame_start": 6,
+      "instance_id": 23,
+      "signer_id": 8,
+      "video_id": ["000140", "IMG_1372.mp4"]
+    },
+    {
+      "bbox": [414, 106, 839, 716],
+      "fps": 25,
+      "frame_end": 67,
+      "frame_start": 7,
+      "instance_id": 24,
+      "signer_id": 11,
+      "video_id": ["000142", "IMG_1376.mp4"]
+    }
+  ]
+},
+
+
+{
+    "gloss": "Allow",
+    "instances": [
+      {
+        "bbox": [298, 133, 894, 720],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 8,
+        "instance_id": 0,
+        "signer_id": 6,
+        "video_id": ["000035", "IMG_1194.mp4"]
+      },
+      {
+        "bbox": [363, 109, 948, 720],
+        "fps": 25,
+        "frame_end": 70,
+        "frame_start": 6,
+        "instance_id": 1,
+        "signer_id": 7,
+        "video_id": ["000036", "IMG_1196.mp4"]
+      },
+      {
+        "bbox": [397, 85, 899, 720],
+        "fps": 25,
+        "frame_end": 89,
+        "frame_start": 27,
+        "instance_id": 2,
+        "signer_id": 12,
+        "video_id": ["000106", "IMG_1323.mp4"]
+      },
+      {
+        "bbox": [348, 136, 870, 718],
+        "fps": 25,
+        "frame_end": 81,
+        "frame_start": 22,
+        "instance_id": 3,
+        "signer_id": 14,
+        "video_id": ["000197", "IMG_1464.mp4"]
+      },
+      {
+        "bbox": [375, 163, 877, 717],
+        "fps": 25,
+        "frame_end": 69,
+        "frame_start": 22,
+        "instance_id": 4,
+        "signer_id": 3,
+        "video_id": ["000211", "IMG_1492.mp4"]
+      },
+      {
+        "bbox": [388, 104, 908, 717],
+        "fps": 25,
+        "frame_end": 68,
+        "frame_start": 18,
+        "instance_id": 5,
+        "signer_id": 16,
+        "video_id": ["000231", "IMG_1528.mp4"]
+      },
+      {
+        "bbox": [353, 45, 996, 717],
+        "fps": 25,
+        "frame_end": 77,
+        "frame_start": 19,
+        "instance_id": 6,
+        "signer_id": 2,
+        "video_id": ["000247", "IMG_1557.mp4"]
+      },
+      {
+        "bbox": [321, 126, 976, 720],
+        "fps": 25,
+        "frame_end": 69,
+        "frame_start": 21,
+        "instance_id": 7,
+        "signer_id": 18,
+        "video_id": ["000335", "IMG_1686.mp4"]
+      },
+      {
+        "bbox": [295.82, 931, 716],
+        "fps": 25,
+        "frame_end": 79,
+        "frame_start": 29,
+        "instance_id": 8,
+        "signer_id": 17,
+        "video_id": ["000336", "IMG_1687.mp4"]
+      },
+      {
+        "bbox": [379, 116, 911, 720],
+        "fps": 25,
+        "frame_end": 67,
+        "frame_start": 23,
+        "instance_id": 9,
+        "signer_id": 20,
+        "video_id": ["000337", "IMG_1688.mp4"]
+      },
+      {
+        "bbox": [402, 67, 910, 720],
+        "fps": 25,
+        "frame_end": 88,
+        "frame_start": 40,
+        "instance_id": 10,
+        "signer_id": 21,
+        "video_id": ["000338", "IMG_1690.mp4"]
+      },
+      {
+        "bbox": [331, 70, 871, 720],
+        "fps": 25,
+        "frame_end": 72,
+        "frame_start": 21,
+        "instance_id": 11,
+        "signer_id": 22,
+        "video_id": ["000339", "IMG_1691.mp4"]
+      },
+      {
+        "bbox": [344, 80, 882, 720],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 28,
+        "instance_id": 12,
+        "signer_id": 19,
+        "video_id": ["000340", "IMG_1694.mp4"]
+      },
+      {
+        "bbox": [414, 106, 839, 716],
+        "fps": 25,
+        "frame_end": 67,
+        "frame_start": 7,
+        "instance_id": 13,
+        "signer_id": 11,
+        "video_id": ["000141", "IMG_1373.mp4"]
+      },
+      {
+        "bbox": [363, 56, 902, 720],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start": 25,
+        "instance_id": 14,
+        "signer_id": 13,
+        "video_id": ["000137", "IMG_1369.mp4"]
+      },
+      
+      {
+        "bbox": [374, 134, 939, 720],
+        "fps": 25,
+        "frame_end": 55,
+        "frame_start": 13,
+        "instance_id": 15,
+        "signer_id": 15,
+        "video_id": ["000138", "IMG_1370.mp4"]
+      },
+      
+      {
+        "bbox": [424, 117, 907, 720],
+        "fps": 25,
+        "frame_end": 56,
+        "frame_start": 8,
+        "instance_id": 16,
+        "signer_id": 10,
+        "video_id": ["000139", "IMG_1371.mp4"]
+      },
+      
+      {
+        "bbox": [348, 79, 913, 720],
+        "fps": 25,
+        "frame_end": 73,
+        "frame_start": 6,
+        "instance_id": 17,
+        "signer_id": 8,
+        "video_id": ["000140", "IMG_1372.mp4"]
+      },
+      
+      {
+        "bbox": [414, 106, 839, 716],
+        "fps": 25,
+        "frame_end": 67,
+        "frame_start": 7,
+        "instance_id": 18,
+        "signer_id": 11,
+        "video_id": ["000141", "IMG_1373.mp4"]
+      },
+      
+      {
+        "bbox": [437, 134, 893, 718],
+        "fps": 25,
+        "frame_end": 71,
+        "frame_start": 5,
+        "instance_id": 19,
+        "signer_id": 9,
+        "video_id": ["000142", "IMG_1376.mp4"]
+      }      
+      
+    ]
+  },
+  {
+    "gloss": "Eat",
+    "instances": [
+      {
+        "bbox": [391, 103, 870, 720],
+        "fps": 25,
+        "frame_end": 58,
+        "frame_start": 11,
+        "instance_id": 0,
+        "signer_id": 7,
+        "video_id": ["000037", "IMG_1197.mp4"]
+      },
+      {
+        "bbox": [397, 102, 861, 720],
+        "fps": 25,
+        "frame_end": 67,
+        "frame_start": 16,
+        "instance_id": 1,
+        "signer_id": 6,
+        "video_id": ["000038", "IMG_1198.mp4"]
+      },
+      {
+        "bbox": [400, 74, 840, 714],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start": 19,
+        "instance_id": 2,
+        "signer_id": 12,
+        "video_id": ["000107", "IMG_1324.mp4"]
+      },
+      {
+        "bbox": [396, 90, 876, 717],
+        "fps": 25,
+        "frame_end": 49,
+        "frame_start": 10,
+        "instance_id": 3,
+        "signer_id": 15,
+        "video_id": ["000156", "IMG_1388.mp4"]
+      },
+      {
+        "bbox": [387, 136, 850, 718],
+        "fps": 25,
+        "frame_end": 57,
+        "frame_start": 14,
+        "instance_id": 4,
+        "signer_id": 14,
+        "video_id": ["000198", "IMG_1465.mp4"]
+      },
+      {
+        "bbox": [337, 161, 837, 718],
+        "fps": 25,
+        "frame_end": 38,
+        "frame_start": 13,
+        "instance_id": 5,
+        "signer_id": 3,
+        "video_id": ["000212", "IMG_1493.mp4"]
+      },
+      {
+        "bbox": [393, 97, 881, 718],
+        "fps": 25,
+        "frame_end": 51,
+        "frame_start": 15,
+        "instance_id": 6,
+        "signer_id": 16,
+        "video_id": ["000232", "IMG_1529.mp4"]
+      },
+      {
+        "bbox": [449, 121, 864, 718],
+        "fps": 25,
+        "frame_end": 42,
+        "frame_start": 8,
+        "instance_id": 7,
+        "signer_id": 9,
+        "video_id": ["000143", "IMG_1377.mp4"]
+      },
+      {
+        "bbox": [419, 48, 895, 718],
+        "fps": 25,
+        "frame_end": 58,
+        "frame_start": 23,
+        "instance_id": 8,
+        "signer_id": 2,
+        "video_id": ["000252", "IMG_1563.mp4"]
+      },
+      {
+        "bbox": [376, 72, 877, 720],
+        "fps": 25,
+        "frame_end": 77,
+        "frame_start": 23,
+        "instance_id": 9,
+        "signer_id": 18,
+        "video_id": ["000341", "IMG_1695.mp4"]
+      },
+      {
+        "bbox": [364, 46, 905, 720],
+        "fps": 25,
+        "frame_end": 52,
+        "frame_start": 15,
+        "instance_id": 10,
+        "signer_id": 17,
+        "video_id": ["000342", "IMG_1696.mp4"]
+      },
+      {
+        "bbox": [423, 77, 907, 720],
+        "fps": 25,
+        "frame_end": 62,
+        "frame_start": 20,
+        "instance_id": 11,
+        "signer_id": 20,
+        "video_id": ["000343", "IMG_1697.mp4"]
+      },
+      {
+        "bbox": [404, 27, 869, 720],
+        "fps": 25,
+        "frame_end": 61,
+        "frame_start": 24,
+        "instance_id": 12,
+        "signer_id": 21,
+        "video_id": ["000344", "IMG_1698.mp4"]
+      },
+      {
+        "bbox": [379, 65, 831, 720],
+        "fps": 25,
+        "frame_end": 63,
+        "frame_start": 18,
+        "instance_id": 13,
+        "signer_id": 22,
+        "video_id": ["000345", "IMG_1699.mp4"]
+      },
+      {
+        "bbox": [374, 77, 851, 720],
+        "fps": 25,
+        "frame_end": 52,
+        "frame_start": 10,
+        "instance_id": 14,
+        "signer_id": 19,
+        "video_id": ["000346", "IMG_1700.mp4"]
+      },
+      {
+        "bbox": [486, 134, 870, 720],
+        "fps": 25,
+        "frame_end": 41,
+        "frame_start": 9,
+        "instance_id": 15,
+        "signer_id": 11,
+        "video_id": ["000146", "IMG_1380.mp4"]
+      },
+      {
+        "bbox": [418, 127, 859, 718],
+        "fps": 25,
+        "frame_end": 46,
+        "frame_start": 7,
+        "instance_id": 16,
+        "signer_id": 10,
+        "video_id": ["000148", "IMG_1382.mp4"]
+      },
+      {
+        "bbox": [387, 90, 888, 720],
+        "fps": 25,
+        "frame_end": 49,
+        "frame_start": 3,
+        "instance_id": 17,
+        "signer_id": 8,
+        "video_id": ["000150", "IMG_1384.mp4"]
+      },
+      {
+        "bbox": [391, 31, 874, 720],
+        "fps": 25,
+        "frame_end": 49,
+        "frame_start": 5,
+        "instance_id": 18,
+        "signer_id": 13,
+        "video_id": ["000152", "IMG_1386.mp4"]
+      }
+    ]
+  },
+    {
+      "gloss": "Water",
+      "instances": [
+        {
+          "bbox": [357, 112, 852, 717],
+          "fps": 25,
+          "frame_end": 66,
+          "frame_start": 18,
+          "instance_id": 0,
+          "signer_id": 15,
+          "video_id": ["000157", "IMG_1389.mp4"]
+        },
+        {
+          "bbox": [374, 26, 891, 720],
+          "fps": 25,
+          "frame_end": 52,
+          "frame_start": 13,
+          "instance_id": 1,
+          "signer_id": 13,
+          "video_id": ["000153", "IMG_1387.mp4"]
+        },
+        {
+          "bbox": [338, 93, 870, 720],
+          "fps": 25,
+          "frame_end": 56,
+          "frame_start": 7,
+          "instance_id": 2,
+          "signer_id": 8,
+          "video_id": ["000151", "IMG_1385.mp4"]
+        },
+        {
+          "bbox": [386, 142, 848, 720],
+          "fps": 25,
+          "frame_end": 50,
+          "frame_start": 4,
+          "instance_id": 3,
+          "signer_id": 10,
+          "video_id": ["000149", "IMG_1383.mp4"]
+        },
+        {
+          "bbox": [443, 127, 871, 720],
+          "fps": 25,
+          "frame_end": 52,
+          "frame_start": 5,
+          "instance_id": 4,
+          "signer_id": 9,
+          "video_id": ["000145", "IMG_1379.mp4"]
+        },
+        {
+          "bbox": [374, 160, 840, 709],
+          "fps": 25,
+          "frame_end": 54,
+          "frame_start": 10,
+          "instance_id": 5,
+          "signer_id": 14,
+          "video_id": ["000199", "IMG_1466.mp4"]
+        },
+        {
+          "bbox": [468, 121, 867, 720],
+          "fps": 25,
+          "frame_end": 52,
+          "frame_start": 15,
+          "instance_id": 6,
+          "signer_id": 11,
+          "video_id": ["000147", "IMG_1381.mp4"]
+        },
+        {
+          "bbox": [395, 175, 895, 717],
+          "fps": 25,
+          "frame_end": 47,
+          "frame_start": 18,
+          "instance_id": 7,
+          "signer_id": 3,
+          "video_id": ["000213", "IMG_1495.mp4"]
+        },
+        {
+          "bbox": [374, 37, 888, 717],
+          "fps": 25,
+          "frame_end": 57,
+          "frame_start": 13,
+          "instance_id": 8,
+          "signer_id": 16,
+          "video_id": ["000233", "IMG_1530.mp4"]
+        },
+        {
+          "bbox": [362, 42, 896, 717],
+          "fps": 25,
+          "frame_end": 68,
+          "frame_start": 22,
+          "instance_id": 9,
+          "signer_id": 2,
+          "video_id": ["000253", "IMG_1565.mp4"]
+        },
+        {
+          "bbox": [333, 80, 897, 720],
+          "fps": 25,
+          "frame_end": 57,
+          "frame_start": 8,
+          "instance_id": 10,
+          "signer_id": 18,
+          "video_id": ["000347", "IMG_1702.mp4"]
+        },
+        {
+          "bbox": [336, 72, 851, 715],
+          "fps": 25,
+          "frame_end": 62,
+          "frame_start": 10,
+          "instance_id": 11,
+          "signer_id": 19,
+          "video_id": ["000348", "IMG_1703.mp4"]
+        },
+        {
+          "bbox": [335, 90, 861, 720],
+          "fps": 25,
+          "frame_end": 67,
+          "frame_start": 28,
+          "instance_id": 12,
+          "signer_id": 22,
+          "video_id": ["000349", "IMG_1704.mp4"]
+        },
+        {
+          "bbox": [386, 87, 898, 720],
+          "fps": 25,
+          "frame_end": 40,
+          "frame_start": 7,
+          "instance_id": 13,
+          "signer_id": 20,
+          "video_id": ["000350", "IMG_1705.mp4"]
+        },
+        {
+          "bbox": [298, 70, 872, 720],
+          "fps": 25,
+          "frame_end": 62,
+          "frame_start": 21,
+          "instance_id": 14,
+          "signer_id": 17,
+          "video_id": ["000351", "IMG_1706.mp4"]
+        },
+        {
+          "bbox": [346, 100, 843, 720],
+          "fps": 25,
+          "frame_end": 65,
+          "frame_start": 24,
+          "instance_id": 15,
+          "signer_id": 21,
+          "video_id": ["000352", "IMG_1707.mp4"]
+        },
+        {
+          "bbox": [395, 101, 896, 718],
+          "fps": 25,
+          "frame_end": 68,
+          "frame_start": 11,
+          "instance_id": 16,
+          "signer_id": 6,
+          "video_id": ["000039", "IMG_1199.mp4"]
+        },
+        {
+          "bbox": [377, 88, 925, 720],
+          "fps": 25,
+          "frame_end": 64,
+          "frame_start": 6,
+          "instance_id": 17,
+          "signer_id": 7,
+          "video_id": ["000040", "IMG_1200.mp4"]
+        },
+        {
+          "bbox": [400, 84, 883, 717],
+          "fps": 25,
+          "frame_end": 62,
+          "frame_start": 8,
+          "instance_id": 18,
+          "signer_id": 12,
+          "video_id": ["000108", "IMG_1326.mp4"]
+        }
+      ]
+    },
+        {
+          "gloss": "Clean",
+          "instances": [
+            {
+              "bbox": [342, 68, 1111, 720],
+              "fps": 25,
+              "frame_end": 58,
+              "frame_start": 3,
+              "instance_id": 0,
+              "signer_id": 6,
+              "video_id": ["000041", "IMG_1202.mp4"]
+            },
+            {
+              "bbox": [120, 60, 1146, 716],
+              "fps": 25,
+              "frame_end": 73,
+              "frame_start": 7,
+              "instance_id": 1,
+              "signer_id": 7,
+              "video_id": ["000042", "IMG_1203.mp4"]
+            },
+            {
+              "bbox": [335, 70, 909, 719],
+              "fps": 25,
+              "frame_end": 68,
+              "frame_start": 12,
+              "instance_id": 2,
+              "signer_id": 12,
+              "video_id": ["000158", "IMG_1391.mp4"]
+            },
+            {
+              "bbox": [389, 156, 899, 717],
+              "fps": 25,
+              "frame_end": 75,
+              "frame_start": 33,
+              "instance_id": 3,
+              "signer_id": 3,
+              "video_id": ["000214", "IMG_1498.mp4"]
+            },
+            {
+              "bbox": [384, 188, 912, 717],
+              "fps": 25,
+              "frame_end": 50,
+              "frame_start": 8,
+              "instance_id": 4,
+              "signer_id": 9,
+              "video_id": ["000159", "IMG_1392.mp4"]
+            },
+            {
+              "bbox": [367, 121, 903, 719],
+              "fps": 25,
+              "frame_end": 46,
+              "frame_start": 5,
+              "instance_id": 5,
+              "signer_id": 10,
+              "video_id": ["000160", "IMG_1393.mp4"]
+            },
+            {
+              "bbox": [299, 101, 910, 718],
+              "fps": 25,
+              "frame_end": 43,
+              "frame_start": 4,
+              "instance_id": 6,
+              "signer_id": 8,
+              "video_id": ["000161", "IMG_1396.mp4"]
+            },
+            {
+              "bbox": [43, 101, 838, 714],
+              "fps": 25,
+              "frame_end": 52,
+              "frame_start": 7,
+              "instance_id": 7,
+              "signer_id": 11,
+              "video_id": ["000162", "IMG_1398.mp4"]
+            },
+            {
+              "bbox": [312, 81, 921, 714],
+              "fps": 25,
+              "frame_end": 66,
+              "frame_start": 9,
+              "instance_id": 8,
+              "signer_id": 13,
+              "video_id": ["000163", "IMG_1401.mp4"]
+            },
+            {
+              "bbox": [95, 102, 883, 718],
+              "fps": 25,
+              "frame_end": 60,
+              "frame_start": 12,
+              "instance_id": 9,
+              "signer_id": 15,
+              "video_id": ["000164", "IMG_1403.mp4"]
+            },
+            {
+              "bbox": [272, 155, 874, 717],
+              "fps": 25,
+              "frame_end": 77,
+              "frame_start": 25,
+              "instance_id": 10,
+              "signer_id": 14,
+              "video_id": ["000200", "IMG_1468.mp4"]
+            },
+            {
+              "bbox": [294, 53, 919, 717],
+              "fps": 25,
+              "frame_end": 65,
+              "frame_start": 10,
+              "instance_id": 11,
+              "signer_id": 16,
+              "video_id": ["000234", "IMG_1532.mp4"]
+            },
+            {
+              "bbox": [360, 53, 931, 715],
+              "fps": 25,
+              "frame_end": 77,
+              "frame_start": 23,
+              "instance_id": 12,
+              "signer_id": 2,
+              "video_id": ["000254", "IMG_1566.mp4"]
+            },
+            {
+              "bbox": [295, 74, 874, 720],
+              "fps": 25,
+              "frame_end": 85,
+              "frame_start": 33,
+              "instance_id": 13,
+              "signer_id": 22,
+              "video_id": ["000354", "IMG_1709.mp4"]
+            },
+            {
+              "bbox": [374, 70, 961, 720],
+              "fps": 25,
+              "frame_end": 76,
+              "frame_start": 26,
+              "instance_id": 14,
+              "signer_id": 18,
+              "video_id": ["000355", "IMG_1712.mp4"]
+            },
+            {
+              "bbox": [274, 59, 875, 720],
+              "fps": 25,
+              "frame_end": 59,
+              "frame_start": 12,
+              "instance_id": 15,
+              "signer_id": 20,
+              "video_id": ["000356", "IMG_1714.mp4"]
+            },
+            {
+              "bbox": [208, 74, 857, 720],
+              "fps": 25,
+              "frame_end": 73,
+              "frame_start": 11,
+              "instance_id": 16,
+              "signer_id": 19,
+              "video_id": ["000357", "IMG_1715.mp4"]
+            },
+            {
+              "bbox": [302, 74, 859, 716],
+              "fps": 25,
+              "frame_end": 77,
+              "frame_start": 27,
+              "instance_id": 17,
+              "signer_id": 21,
+              "video_id": ["000358", "IMG_1717.mp4"]
+            },
+            {
+              "bbox": [257, 41, 910, 715],
+              "fps": 25,
+              "frame_end": 85,
+              "frame_start": 28,
+              "instance_id": 18,
+              "signer_id": 17,
+              "video_id": ["000359", "IMG_1720.mp4"]
+            }
+          ]
+        },
+        {
+            "gloss": "Sleep",
+            "instances": [
+              {
+                "bbox": [349, 100, 811, 720],
+                "fps": 25,
+                "frame_end": 56,
+                "frame_start": 3,
+                "instance_id": 0,
+                "signer_id": 6,
+                "video_id": ["000043", "IMG_1204.mp4"]
+              },
+              {
+                "bbox": [458, 80, 934, 716],
+                "fps": 25,
+                "frame_end": 50,
+                "frame_start": 7,
+                "instance_id": 1,
+                "signer_id": 7,
+                "video_id": ["000045", "IMG_1207.mp4"]
+              },
+              {
+                "bbox": [404, 62, 943, 718],
+                "fps": 25,
+                "frame_end": 48,
+                "frame_start": 7,
+                "instance_id": 2,
+                "signer_id": 12,
+                "video_id": ["000165", "IMG_1406.mp4"]
+              },
+              {
+                "bbox": [393, 112, 900, 718],
+                "fps": 25,
+                "frame_end": 78,
+                "frame_start": 22,
+                "instance_id": 3,
+                "signer_id": 14,
+                "video_id": ["000201", "IMG_1469.mp4"]
+              },
+              {
+                "bbox": [391, 54, 930, 718],
+                "fps": 25,
+                "frame_end": 55,
+                "frame_start": 9,
+                "instance_id": 4,
+                "signer_id": 13,
+                "video_id": ["000166", "IMG_1410.mp4"]
+              },
+              {
+                "bbox": [390, 74, 964, 719],
+                "fps": 25,
+                "frame_end": 62,
+                "frame_start": 16,
+                "instance_id": 5,
+                "signer_id": 15,
+                "video_id": ["000167", "IMG_1412.mp4"]
+              },
+              {
+                "bbox": [422, 150, 941, 718],
+                "fps": 25,
+                "frame_end": 47,
+                "frame_start": 10,
+                "instance_id": 6,
+                "signer_id": 11,
+                "video_id": ["000168", "IMG_1413.mp4"]
+              },
+              {
+                "bbox": [437, 156, 937, 718],
+                "fps": 25,
+                "frame_end": 41,
+                "frame_start": 4,
+                "instance_id": 7,
+                "signer_id": 9,
+                "video_id": ["000169", "IMG_1414.mp4"]
+              },
+              {
+                "bbox": [387, 128, 905, 715],
+                "fps": 25,
+                "frame_end": 45,
+                "frame_start": 7,
+                "instance_id": 8,
+                "signer_id": 8,
+                "video_id": ["000170", "IMG_1415.mp4"]
+              },
+              {
+                "bbox": [400, 118, 929, 711],
+                "fps": 25,
+                "frame_end": 48,
+                "frame_start": 6,
+                "instance_id": 9,
+                "signer_id": 10,
+                "video_id": ["000171", "IMG_1416.mp4"]
+              },
+              {
+                "bbox": [400, 132, 926, 709],
+                "fps": 25,
+                "frame_end": 66,
+                "frame_start": 24,
+                "instance_id": 10,
+                "signer_id": 3,
+                "video_id": ["000215", "IMG_1500.mp4"]
+              },
+              {
+                "bbox": [406, 38, 939, 718],
+                "fps": 25,
+                "frame_end": 66,
+                "frame_start": 21,
+                "instance_id": 11,
+                "signer_id": 16,
+                "video_id": ["000235", "IMG_1534.mp4"]
+              },
+              {
+                "bbox": [298, 43, 1106, 718],
+                "fps": 25,
+                "frame_end": 71,
+                "frame_start": 8,
+                "instance_id": 12,
+                "signer_id": 2,
+                "video_id": ["000255", "IMG_1567.mp4"]
+              },
+              {
+                "bbox": [430, 93, 872, 720],
+                "fps": 25,
+                "frame_end": 72,
+                "frame_start": 25,
+                "instance_id": 13,
+                "signer_id": 20,
+                "video_id": ["000360", "IMG_1721.mp4"]
+              },
+              {
+                "bbox": [412, 88, 908, 718],
+                "fps": 25,
+                "frame_end": 75,
+                "frame_start": 25,
+                "instance_id": 14,
+                "signer_id": 18,
+                "video_id": ["000361", "IMG_1722.mp4"]
+              },
+              {
+                "bbox": [418, 92, 836, 720],
+                "fps": 25,
+                "frame_end": 75,
+                "frame_start": 25,
+                "instance_id": 15,
+                "signer_id": 22,
+                "video_id": ["000362", "IMG_1723.mp4"]
+              },
+              {
+                "bbox": [374, 57, 823, 720],
+                "fps": 25,
+                "frame_end": 73,
+                "frame_start": 22,
+                "instance_id": 16,
+                "signer_id": 19,
+                "video_id": ["000363", "IMG_1724.mp4"]
+              },
+              {
+                "bbox": [428, 57, 872, 720],
+                "fps": 25,
+                "frame_end": 61,
+                "frame_start": 18,
+                "instance_id": 17,
+                "signer_id": 21,
+                "video_id": ["000364", "IMG_1727.mp4"]
+              },
+              {
+                "bbox": [437, 80, 940, 720],
+                "fps": 25,
+                "frame_end": 82,
+                "frame_start": 17,
+                "instance_id": 18,
+                "signer_id": 17,
+                "video_id": ["000365", "IMG_1728.mp4"]
+              }
+            ]
+          },{
+            "gloss": "Wakeup",
+            "instances": [
+              {
+                "bbox": [215, 62, 1181, 720],
+                "fps": 25,
+                "frame_end": 97,
+                "frame_start": 9,
+                "instance_id": 0,
+                "signer_id": 7,
+                "video_id": ["000046", "IMG_1208.mp4"]
+              },
+              {
+                "bbox": [65, 37, 1242, 720],
+                "fps": 25,
+                "frame_end": 59,
+                "frame_start": 10,
+                "instance_id": 1,
+                "signer_id": 6,
+                "video_id": ["000044", "IMG_1206.mp4"]
+              },
+              {
+                "bbox": [284, 44, 997, 718],
+                "fps": 25,
+                "frame_end": 53,
+                "frame_start": 13,
+                "instance_id": 2,
+                "signer_id": 11,
+                "video_id": ["000172", "IMG_1417.mp4"]
+              },
+              {
+                "bbox": [254, 131, 993, 718],
+                "fps": 25,
+                "frame_end": 62,
+                "frame_start": 27,
+                "instance_id": 3,
+                "signer_id": 14,
+                "video_id": ["000202", "IMG_1471.mp4"]
+              },
+              {
+                "bbox": [248, 84, 1006, 717],
+                "fps": 25,
+                "frame_end": 79,
+                "frame_start": 27,
+                "instance_id": 4,
+                "signer_id": 3,
+                "video_id": ["000216", "IMG_1502.mp4"]
+              },
+              {
+                "bbox": [272, 22, 1040, 717],
+                "fps": 25,
+                "frame_end": 43,
+                "frame_start": 7,
+                "instance_id": 5,
+                "signer_id": 10,
+                "video_id": ["000174", "IMG_1419.mp4"]
+              },
+              {
+                "bbox": [232, 4, 1037, 714],
+                "fps": 25,
+                "frame_end": 44,
+                "frame_start": 3,
+                "instance_id": 6,
+                "signer_id": 9,
+                "video_id": ["000175", "IMG_1420.mp4"]
+              },
+              {
+                "bbox": [201, 9, 1128, 717],
+                "fps": 25,
+                "frame_end": 51,
+                "frame_start": 13,
+                "instance_id": 7,
+                "signer_id": 12,
+                "video_id": ["000176", "IMG_1421.mp4"]
+              },
+              {
+                "bbox": [75, 35, 1179, 719],
+                "fps": 25,
+                "frame_end": 54,
+                "frame_start": 7,
+                "instance_id": 8,
+                "signer_id": 15,
+                "video_id": ["000177", "IMG_1428.mp4"]
+              },
+              {
+                "bbox": [128, 31, 1247, 687],
+                "fps": 25,
+                "frame_end": 63,
+                "frame_start": 22,
+                "instance_id": 9,
+                "signer_id": 13,
+                "video_id": ["000178", "IMG_1430.mp4"]
+              },
+              {
+                "bbox": [244, 22, 1053, 718],
+                "fps": 25,
+                "frame_end": 63,
+                "frame_start": 8,
+                "instance_id": 10,
+                "signer_id": 16,
+                "video_id": ["000236", "IMG_1535.mp4"]
+              },
+              {
+                "bbox": [296, 35, 1058, 718],
+                "fps": 25,
+                "frame_end": 83,
+                "frame_start": 24,
+                "instance_id": 11,
+                "signer_id": 2,
+                "video_id": ["000256", "IMG_1569.mp4"]
+              },
+              {
+                "bbox": [323, 85, 977, 718],
+                "fps": 25,
+                "frame_end": 67,
+                "frame_start": 24,
+                "instance_id": 12,
+                "signer_id": 18,
+                "video_id": ["000366", "IMG_1729.mp4"]
+              },
+              {
+                "bbox": [300, 103, 979, 720],
+                "fps": 25,
+                "frame_end": 60,
+                "frame_start": 15,
+                "instance_id": 13,
+                "signer_id": 20,
+                "video_id": ["000367", "IMG_1730.mp4"]
+              },
+              {
+                "bbox": [317, 64, 954, 720],
+                "fps": 25,
+                "frame_end": 77,
+                "frame_start": 18,
+                "instance_id": 14,
+                "signer_id": 19,
+                "video_id": ["000368", "IMG_1731.mp4"]
+              },
+              {
+                "bbox": [280, 70, 954, 720],
+                "fps": 25,
+                "frame_end": 72,
+                "frame_start": 22,
+                "instance_id": 15,
+                "signer_id": 22,
+                "video_id": ["000369", "IMG_1732.mp4"]
+              },
+              {
+                "bbox": [284, 87, 941, 720],
+                "fps": 25,
+                "frame_end": 58,
+                "frame_start": 28,
+                "instance_id": 16,
+                "signer_id": 21,
+                "video_id": ["000370", "IMG_1734.mp4"]
+              },
+              {
+                "bbox": [157, 37, 1070, 716],
+                "fps": 25,
+                "frame_end": 64,
+                "frame_start": 10,
+                "instance_id": 17,
+                "signer_id": 17,
+                "video_id": ["000371", "IMG_1735.mp4"]
+              }
+            ]
+    },
+
+    {
+  "gloss": "Day",
+  "instances": [
+    {
+      "bbox": [282, 40, 968, 718],
+      "fps": 25,
+      "frame_end": 74,
+      "frame_start": 13,
+      "instance_id": 0,
+      "signer_id": 7,
+      "video_id": ["000047", "IMG_1211.mp4"]
+    },
+    {
+      "bbox": [341, 10, 828, 718],
+      "fps": 25,
+      "frame_end": 75,
+      "frame_start": 13,
+      "instance_id": 1,
+      "signer_id": 22,
+      "video_id": ["000094", "IMG_1745.mp4"]
+    },
+    {
+      "bbox": [463, 52, 1049, 717],
+      "fps": 25,
+      "frame_end": 60,
+      "frame_start": 17,
+      "instance_id": 2,
+      "signer_id": 3,
+      "video_id": ["000217", "IMG_1503.mp4"]
+    },
+    {
+      "bbox": [24, 1, 873, 717],
+      "fps": 25,
+      "frame_end": 86,
+      "frame_start": 28,
+      "instance_id": 3,
+      "signer_id": 14,
+      "video_id": ["000203", "IMG_1475.mp4"]
+    },
+    {
+      "bbox": [279, 1, 1015, 719],
+      "fps": 25,
+      "frame_end": 58,
+      "frame_start": 9,
+      "instance_id": 4,
+      "signer_id": 12,
+      "video_id": ["000179", "IMG_1431.mp4"]
+    },
+    {
+      "bbox": [306, 4, 848, 715],
+      "fps": 25,
+      "frame_end": 60,
+      "frame_start": 8,
+      "instance_id": 5,
+      "signer_id": 11,
+      "video_id": ["000180", "IMG_1432.mp4"]
+    },
+    {
+      "bbox": [354, 40, 853, 718],
+      "fps": 25,
+      "frame_end": 78,
+      "frame_start": 21,
+      "instance_id": 6,
+      "signer_id": 9,
+      "video_id": ["000181", "IMG_1433.mp4"]
+    },
+    {
+      "bbox": [338, 71, 889, 718],
+      "fps": 25,
+      "frame_end": 89,
+      "frame_start": 8,
+      "instance_id": 7,
+      "signer_id": 10,
+      "video_id": ["000182", "IMG_1434.mp4"]
+    },
+    {
+      "bbox": [296, 57, 907, 716],
+      "fps": 25,
+      "frame_end": 58,
+      "frame_start": 3,
+      "instance_id": 8,
+      "signer_id": 8,
+      "video_id": ["000183", "IMG_1436.mp4"]
+    },
+    {
+      "bbox": [328, 16, 912, 713],
+      "fps": 25,
+      "frame_end": 70,
+      "frame_start": 17,
+      "instance_id": 9,
+      "signer_id": 13,
+      "video_id": ["000184", "IMG_1437.mp4"]
+    },
+    {
+      "bbox": [366, 0, 873, 718],
+      "fps": 25,
+      "frame_end": 65,
+      "frame_start": 12,
+      "instance_id": 10,
+      "signer_id": 15,
+      "video_id": ["000185", "IMG_1441.mp4"]
+    },
+    {
+      "bbox": [212, 44, 899, 717],
+      "fps": 25,
+      "frame_end": 82,
+      "frame_start": 1,
+      "instance_id": 11,
+      "signer_id": 16,
+      "video_id": ["000237", "IMG_1540.mp4"]
+    },
+    {
+      "bbox": [195, 30, 955, 719],
+      "fps": 25,
+      "frame_end": 59,
+      "frame_start": 1,
+      "instance_id": 12,
+      "signer_id": 2,
+      "video_id": ["000257", "IMG_1572.mp4"]
+    },
+    {
+      "bbox": [320, 40, 928, 720],
+      "fps": 25,
+      "frame_end": 96,
+      "frame_start": 18,
+      "instance_id": 13,
+      "signer_id": 18,
+      "video_id": ["000372", "IMG_1737.mp4"]
+    },
+    {
+      "bbox": [321, 47, 892, 720],
+      "fps": 25,
+      "frame_end": 77,
+      "frame_start": 6,
+      "instance_id": 14,
+      "signer_id": 17,
+      "video_id": ["000373", "IMG_1739.mp4"]
+    },
+    {
+      "bbox": [],
+      "fps": 25,
+      "frame_end": 103,
+      "frame_start": 8,
+      "instance_id": 15,
+      "signer_id": 19,
+      "video_id": ["000374", "IMG_1740.mp4"]
+    },
+    {
+      "bbox": [308, 0, 847, 717],
+      "fps": 25,
+      "frame_end": 73,
+      "frame_start": 7,
+      "instance_id": 16,
+      "signer_id": 21,
+      "video_id": ["000375", "IMG_1741.mp4"]
+    },
+    {
+      "bbox": [351, 34, 867, 720],
+      "fps": 25,
+      "frame_end": 87,
+      "frame_start": 2,
+      "instance_id": 17,
+      "signer_id": 20,
+      "video_id": ["000376", "IMG_1744.mp4"]
+     }
+
+        ]
+    }
+]
+
+
+
+
